@@ -1,0 +1,1 @@
+c:\users\bizruntime39\documents\visual studio 2015\CoinMoveMentApp\CoinMoveMentApp\obj\x64\Debug\CoinMoveMentApp.sfprojResolveAssemblyReference.cache

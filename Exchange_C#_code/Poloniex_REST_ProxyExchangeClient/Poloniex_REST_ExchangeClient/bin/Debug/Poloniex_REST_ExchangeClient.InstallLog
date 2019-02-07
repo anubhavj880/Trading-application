@@ -1,0 +1,16 @@
+﻿Installing assembly 'F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Poloniex_REST_ExchangeClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Poloniex_REST_ExchangeClient.InstallLog
+   assemblypath = F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Poloniex_REST_ExchangeClient.exe
+An exception occurred while trying to find the installers in the F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Poloniex_REST_ExchangeClient.exe assembly.
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+Aborting installation for F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Poloniex_REST_ExchangeClient.exe.
+Rolling back assembly 'F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Poloniex_REST_ExchangeClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Poloniex_REST_ExchangeClient.InstallLog
+   assemblypath = F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Poloniex_REST_ExchangeClient.exe
+An exception occurred while trying to find the installers in the F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Poloniex_REST_ExchangeClient.exe assembly.
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+Aborting installation for F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Poloniex_REST_ExchangeClient.exe.

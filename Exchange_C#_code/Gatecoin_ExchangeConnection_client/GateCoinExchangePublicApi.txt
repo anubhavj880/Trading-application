@@ -1,0 +1,114 @@
+===============================================================
+Ticker:
+===============================================================
+
+Link
+
+    GET https://api.gatecoin.com/Public/LiveTickers
+Response
+
+                            {
+                                "tickers": [
+                                    {
+                                        "currencyPair": "BTCUSD",
+                                        "open": 200,
+                                        "last": 200,
+                                        "lastQ": 0.1,
+                                        "high": 200,
+                                        "low": 200,
+                                        "volume": 50,
+                                        "bid": 200,
+                                        "bidQ": 27.7099,
+                                        "ask": 203,
+                                        "askQ": 10,
+                                        "vwap": 0,
+                                        "createDateTime": "1421252904"
+                                    }
+                                ]
+                            }
+                        
+Explanation
+
+Key	Value	Explanation
+open	200	The last price of the previous ticker was 200 USD
+last	200	The last transaction price was 200 USD
+lastQ	0.1	The last transaction quantity traded was 0.1 BTC
+high	200	The highest transaction price in the last 24 hours was 200 USD
+low	200	The lowest transaction price in the last 24 hours was 200 USD
+volume	50	The volume traded in the last 24 hours was 50 BTC
+bid	200	The current best bid order is 200 USD for 1 BTC
+bidQ	27.7099	The current best bid quantity is open for 27.7099 BTC
+ask	203	The current best ask order is 203 USD for 1 BTC
+askQ	10	The current best ask quantity is open for 10 BTC
+vwap	0	Volume Weighted Average Price
+createDateTime	1421252904	Unix timestamp
+
+=================================================================================================================================
+OrderBook:
+==============================
+Link
+
+    GET https://api.gatecoin.com/Public/MarketDepth/:CurrencyPair
+Parameters
+
+Parameter	Data Type	Description	Parameter Type
+CurrencyPair	string	The currency pair for which prices are wanted	path
+Response
+
+                            {
+                                "asks": [
+                                    {
+                                        "price": 203,
+                                        "volume": 10
+                                    },
+                                    {
+                                        "price": 204,
+                                        "volume": 1
+                                    }
+                                ]
+                            }
+                        
+Explanation
+
+Key	Value	Explanation
+price	203	There is an available ask order to sell BTC at 203 USD
+volume	10	The available quantity at that price is 10 BTC
+=================================================================================================================================
+TradeBook:
+==============================
+
+
+Note: the Transactions are public data. Authentication is not required
+
+Path
+
+    GET https://api.gatecoin.com/Public/Transactions/:CurrencyPair
+Parameters
+
+Parameter	Data Type	Description	Parameter Type
+CurrencyPair	string	Currency Pair	path
+Count	int	Number of transactions to get. Max 1000 (optional)	query
+TransactionId	long	Get transactions from specific transaction id (optional)	query
+Response
+
+                            {
+                                "transactions": [
+                                    {
+                                        "transactionId": 4263196,
+                                        "transactionTime": "1416212760",
+                                        "price": 405.52,
+                                        "quantity": 0.33,
+                                        "currencyPair": "BTCUSD"
+                                    }
+                                ]
+                            }
+                        
+Explanation
+
+Key	Value	Description
+transactionId	4263196	Transaction ID
+transactionTime	1416212760	Transaction Unix timestamp
+price	405.52	Price of the transaction
+quantity	0.33	Quantity traded in the transaction
+currencyPair	BTCUSD	Currency pair traded in the transaction
+=================================================================================================================================

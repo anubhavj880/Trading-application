@@ -1,0 +1,13 @@
+﻿Installing assembly 'F:\Exchange_C#_code\Cexio_ExchangeConnetion_Client\Cexio_ExchangeConnetion_Client\bin\Debug\Cexio_ExchangeConnetion_Client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Exchange_C#_code\Cexio_ExchangeConnetion_Client\Cexio_ExchangeConnetion_Client\bin\Debug\Cexio_ExchangeConnetion_Client.InstallLog
+   assemblypath = F:\Exchange_C#_code\Cexio_ExchangeConnetion_Client\Cexio_ExchangeConnetion_Client\bin\Debug\Cexio_ExchangeConnetion_Client.exe
+Installing service Cexio_ExchangeConnetion_Client...
+Service Cexio_ExchangeConnetion_Client has been successfully installed.
+Creating EventLog source Cexio_ExchangeConnetion_Client in log Application...
+Committing assembly 'F:\Exchange_C#_code\Cexio_ExchangeConnetion_Client\Cexio_ExchangeConnetion_Client\bin\Debug\Cexio_ExchangeConnetion_Client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Exchange_C#_code\Cexio_ExchangeConnetion_Client\Cexio_ExchangeConnetion_Client\bin\Debug\Cexio_ExchangeConnetion_Client.InstallLog
+   assemblypath = F:\Exchange_C#_code\Cexio_ExchangeConnetion_Client\Cexio_ExchangeConnetion_Client\bin\Debug\Cexio_ExchangeConnetion_Client.exe

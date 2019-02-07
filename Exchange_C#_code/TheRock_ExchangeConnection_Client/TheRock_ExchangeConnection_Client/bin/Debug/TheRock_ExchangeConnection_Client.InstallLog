@@ -1,0 +1,13 @@
+﻿Installing assembly 'F:\Exchange_C#_code\TheRock_ExchangeConnection_Client\TheRock_ExchangeConnection_Client\bin\Debug\TheRock_ExchangeConnection_Client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Exchange_C#_code\TheRock_ExchangeConnection_Client\TheRock_ExchangeConnection_Client\bin\Debug\TheRock_ExchangeConnection_Client.InstallLog
+   assemblypath = F:\Exchange_C#_code\TheRock_ExchangeConnection_Client\TheRock_ExchangeConnection_Client\bin\Debug\TheRock_ExchangeConnection_Client.exe
+Installing service TheRock_ExchangeConnection_Client...
+Service TheRock_ExchangeConnection_Client has been successfully installed.
+Creating EventLog source TheRock_ExchangeConnection_Client in log Application...
+Committing assembly 'F:\Exchange_C#_code\TheRock_ExchangeConnection_Client\TheRock_ExchangeConnection_Client\bin\Debug\TheRock_ExchangeConnection_Client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Exchange_C#_code\TheRock_ExchangeConnection_Client\TheRock_ExchangeConnection_Client\bin\Debug\TheRock_ExchangeConnection_Client.InstallLog
+   assemblypath = F:\Exchange_C#_code\TheRock_ExchangeConnection_Client\TheRock_ExchangeConnection_Client\bin\Debug\TheRock_ExchangeConnection_Client.exe

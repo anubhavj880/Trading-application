@@ -1,0 +1,104 @@
+﻿Installing assembly 'F:\Exchange_C#_code\BitFinex_ExchangeConnection_Client\BitFinex_ExchangeConnection_Client\bin\Debug\BitFinex_ExchangeConnection_Client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Exchange_C#_code\BitFinex_ExchangeConnection_Client\BitFinex_ExchangeConnection_Client\bin\Debug\BitFinex_ExchangeConnection_Client.InstallLog
+   assemblypath = F:\Exchange_C#_code\BitFinex_ExchangeConnection_Client\BitFinex_ExchangeConnection_Client\bin\Debug\BitFinex_ExchangeConnection_Client.exe
+Installing service BitFinex_ExchangeConnection_Client...
+Service BitFinex_ExchangeConnection_Client has been successfully installed.
+Creating EventLog source BitFinex_ExchangeConnection_Client in log Application...
+Committing assembly 'F:\Exchange_C#_code\BitFinex_ExchangeConnection_Client\BitFinex_ExchangeConnection_Client\bin\Debug\BitFinex_ExchangeConnection_Client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Exchange_C#_code\BitFinex_ExchangeConnection_Client\BitFinex_ExchangeConnection_Client\bin\Debug\BitFinex_ExchangeConnection_Client.InstallLog
+   assemblypath = F:\Exchange_C#_code\BitFinex_ExchangeConnection_Client\BitFinex_ExchangeConnection_Client\bin\Debug\BitFinex_ExchangeConnection_Client.exe
+Installing assembly 'F:\Exchange_C#_code\BitFinex_ExchangeConnection_Client\BitFinex_ExchangeConnection_Client\bin\Debug\BitFinex_ExchangeConnection_Client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Exchange_C#_code\BitFinex_ExchangeConnection_Client\BitFinex_ExchangeConnection_Client\bin\Debug\BitFinex_ExchangeConnection_Client.InstallLog
+   assemblypath = F:\Exchange_C#_code\BitFinex_ExchangeConnection_Client\BitFinex_ExchangeConnection_Client\bin\Debug\BitFinex_ExchangeConnection_Client.exe
+Installing service BitFinex_ExchangeConnection_Client...
+Creating EventLog source BitFinex_ExchangeConnection_Client in log Application...
+Rolling back assembly 'F:\Exchange_C#_code\BitFinex_ExchangeConnection_Client\BitFinex_ExchangeConnection_Client\bin\Debug\BitFinex_ExchangeConnection_Client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Exchange_C#_code\BitFinex_ExchangeConnection_Client\BitFinex_ExchangeConnection_Client\bin\Debug\BitFinex_ExchangeConnection_Client.InstallLog
+   assemblypath = F:\Exchange_C#_code\BitFinex_ExchangeConnection_Client\BitFinex_ExchangeConnection_Client\bin\Debug\BitFinex_ExchangeConnection_Client.exe
+Restoring event log to previous state for source BitFinex_ExchangeConnection_Client.
+Installing assembly 'F:\Exchange_C#_code\BitFinex_ExchangeConnection_Client\BitFinex_ExchangeConnection_Client\bin\Debug\BitFinex_ExchangeConnection_Client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Exchange_C#_code\BitFinex_ExchangeConnection_Client\BitFinex_ExchangeConnection_Client\bin\Debug\BitFinex_ExchangeConnection_Client.InstallLog
+   assemblypath = F:\Exchange_C#_code\BitFinex_ExchangeConnection_Client\BitFinex_ExchangeConnection_Client\bin\Debug\BitFinex_ExchangeConnection_Client.exe
+Installing service BitFinex_ExchangeConnection_Client...
+Creating EventLog source BitFinex_ExchangeConnection_Client in log Application...
+Rolling back assembly 'F:\Exchange_C#_code\BitFinex_ExchangeConnection_Client\BitFinex_ExchangeConnection_Client\bin\Debug\BitFinex_ExchangeConnection_Client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Exchange_C#_code\BitFinex_ExchangeConnection_Client\BitFinex_ExchangeConnection_Client\bin\Debug\BitFinex_ExchangeConnection_Client.InstallLog
+   assemblypath = F:\Exchange_C#_code\BitFinex_ExchangeConnection_Client\BitFinex_ExchangeConnection_Client\bin\Debug\BitFinex_ExchangeConnection_Client.exe
+Restoring event log to previous state for source BitFinex_ExchangeConnection_Client.
+Installing assembly 'F:\Exchange_C#_code\BitFinex_ExchangeConnection_Client\BitFinex_ExchangeConnection_Client\bin\Debug\BitFinex_ExchangeConnection_Client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Exchange_C#_code\BitFinex_ExchangeConnection_Client\BitFinex_ExchangeConnection_Client\bin\Debug\BitFinex_ExchangeConnection_Client.InstallLog
+   assemblypath = F:\Exchange_C#_code\BitFinex_ExchangeConnection_Client\BitFinex_ExchangeConnection_Client\bin\Debug\BitFinex_ExchangeConnection_Client.exe
+Installing service BitFinex_ExchangeConnection_Client...
+Service BitFinex_ExchangeConnection_Client has been successfully installed.
+Creating EventLog source BitFinex_ExchangeConnection_Client in log Application...
+Committing assembly 'F:\Exchange_C#_code\BitFinex_ExchangeConnection_Client\BitFinex_ExchangeConnection_Client\bin\Debug\BitFinex_ExchangeConnection_Client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Exchange_C#_code\BitFinex_ExchangeConnection_Client\BitFinex_ExchangeConnection_Client\bin\Debug\BitFinex_ExchangeConnection_Client.InstallLog
+   assemblypath = F:\Exchange_C#_code\BitFinex_ExchangeConnection_Client\BitFinex_ExchangeConnection_Client\bin\Debug\BitFinex_ExchangeConnection_Client.exe
+Installing assembly 'F:\Exchange_C#_code\BitFinex_ExchangeConnection_Client\BitFinex_ExchangeConnection_Client\bin\Debug\BitFinex_ExchangeConnection_Client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Exchange_C#_code\BitFinex_ExchangeConnection_Client\BitFinex_ExchangeConnection_Client\bin\Debug\BitFinex_ExchangeConnection_Client.InstallLog
+   assemblypath = F:\Exchange_C#_code\BitFinex_ExchangeConnection_Client\BitFinex_ExchangeConnection_Client\bin\Debug\BitFinex_ExchangeConnection_Client.exe
+Installing service BitFinex_ExchangeConnection_Client...
+Service BitFinex_ExchangeConnection_Client has been successfully installed.
+Creating EventLog source BitFinex_ExchangeConnection_Client in log Application...
+Committing assembly 'F:\Exchange_C#_code\BitFinex_ExchangeConnection_Client\BitFinex_ExchangeConnection_Client\bin\Debug\BitFinex_ExchangeConnection_Client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Exchange_C#_code\BitFinex_ExchangeConnection_Client\BitFinex_ExchangeConnection_Client\bin\Debug\BitFinex_ExchangeConnection_Client.InstallLog
+   assemblypath = F:\Exchange_C#_code\BitFinex_ExchangeConnection_Client\BitFinex_ExchangeConnection_Client\bin\Debug\BitFinex_ExchangeConnection_Client.exe
+Installing assembly 'F:\Exchange_C#_code\BitFinex_ExchangeConnection_Client\BitFinex_ExchangeConnection_Client\bin\Debug\BitFinex_ExchangeConnection_Client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Exchange_C#_code\BitFinex_ExchangeConnection_Client\BitFinex_ExchangeConnection_Client\bin\Debug\BitFinex_ExchangeConnection_Client.InstallLog
+   assemblypath = F:\Exchange_C#_code\BitFinex_ExchangeConnection_Client\BitFinex_ExchangeConnection_Client\bin\Debug\BitFinex_ExchangeConnection_Client.exe
+Installing service BitFinex_ExchangeConnection_Client...
+Service BitFinex_ExchangeConnection_Client has been successfully installed.
+Creating EventLog source BitFinex_ExchangeConnection_Client in log Application...
+Committing assembly 'F:\Exchange_C#_code\BitFinex_ExchangeConnection_Client\BitFinex_ExchangeConnection_Client\bin\Debug\BitFinex_ExchangeConnection_Client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Exchange_C#_code\BitFinex_ExchangeConnection_Client\BitFinex_ExchangeConnection_Client\bin\Debug\BitFinex_ExchangeConnection_Client.InstallLog
+   assemblypath = F:\Exchange_C#_code\BitFinex_ExchangeConnection_Client\BitFinex_ExchangeConnection_Client\bin\Debug\BitFinex_ExchangeConnection_Client.exe
+Installing assembly 'F:\Exchange_C#_code\BitFinex_ExchangeConnection_Client\BitFinex_ExchangeConnection_Client\bin\Debug\BitFinex_ExchangeConnection_Client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Exchange_C#_code\BitFinex_ExchangeConnection_Client\BitFinex_ExchangeConnection_Client\bin\Debug\BitFinex_ExchangeConnection_Client.InstallLog
+   assemblypath = F:\Exchange_C#_code\BitFinex_ExchangeConnection_Client\BitFinex_ExchangeConnection_Client\bin\Debug\BitFinex_ExchangeConnection_Client.exe
+Installing service BitFinex_ExchangeConnection_Client...
+Service BitFinex_ExchangeConnection_Client has been successfully installed.
+Creating EventLog source BitFinex_ExchangeConnection_Client in log Application...
+Committing assembly 'F:\Exchange_C#_code\BitFinex_ExchangeConnection_Client\BitFinex_ExchangeConnection_Client\bin\Debug\BitFinex_ExchangeConnection_Client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Exchange_C#_code\BitFinex_ExchangeConnection_Client\BitFinex_ExchangeConnection_Client\bin\Debug\BitFinex_ExchangeConnection_Client.InstallLog
+   assemblypath = F:\Exchange_C#_code\BitFinex_ExchangeConnection_Client\BitFinex_ExchangeConnection_Client\bin\Debug\BitFinex_ExchangeConnection_Client.exe
+Installing assembly 'F:\Exchange_C#_code\BitFinex_ExchangeConnection_Client\BitFinex_ExchangeConnection_Client\bin\Debug\BitFinex_ExchangeConnection_Client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Exchange_C#_code\BitFinex_ExchangeConnection_Client\BitFinex_ExchangeConnection_Client\bin\Debug\BitFinex_ExchangeConnection_Client.InstallLog
+   assemblypath = F:\Exchange_C#_code\BitFinex_ExchangeConnection_Client\BitFinex_ExchangeConnection_Client\bin\Debug\BitFinex_ExchangeConnection_Client.exe
+Installing service BitFinex_ExchangeConnection_Client...
+Service BitFinex_ExchangeConnection_Client has been successfully installed.
+Creating EventLog source BitFinex_ExchangeConnection_Client in log Application...
+Committing assembly 'F:\Exchange_C#_code\BitFinex_ExchangeConnection_Client\BitFinex_ExchangeConnection_Client\bin\Debug\BitFinex_ExchangeConnection_Client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Exchange_C#_code\BitFinex_ExchangeConnection_Client\BitFinex_ExchangeConnection_Client\bin\Debug\BitFinex_ExchangeConnection_Client.InstallLog
+   assemblypath = F:\Exchange_C#_code\BitFinex_ExchangeConnection_Client\BitFinex_ExchangeConnection_Client\bin\Debug\BitFinex_ExchangeConnection_Client.exe

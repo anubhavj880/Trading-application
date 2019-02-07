@@ -1,0 +1,12 @@
+[Header]\r\n2017-08-09 17:32:03,400 [8] INFO Yobit_Coinmovement_Application.Program - The  Balance: {"success":0,"error":"invalid key, sign, method or nonce"}
+[Header]\r\n2017-08-09 17:35:00,346 [9] INFO Yobit_Coinmovement_Application.Program - The  Balance: {"success":0,"error":"invalid key, sign, method or nonce"}
+[Header]\r\n2017-08-09 17:35:37,700 [9] INFO Yobit_Coinmovement_Application.Program - The  Balance: {"success":0,"error":"invalid sign"}
+[Header]\r\n2017-08-09 17:36:29,435 [9] INFO Yobit_Coinmovement_Application.Program - The  Balance: {"success":0,"error":"invalid sign"}
+[Header]\r\n2017-08-09 17:37:30,687 [9] INFO Yobit_Coinmovement_Application.Program - The  Balance: {"success":0,"error":"invalid sign"}
+[Header]\r\n2017-08-09 17:38:04,713 [9] INFO Yobit_Coinmovement_Application.Program - The  Balance: {"success":0,"error":"invalid key, sign, method or nonce"}
+[Header]\r\n2017-08-09 17:38:51,664 [9] INFO Yobit_Coinmovement_Application.Program - The  Balance: {"success":0,"error":"invalid key, sign, method or nonce"}
+[Header]\r\n2017-08-09 17:46:03,290 [9] INFO Yobit_Coinmovement_Application.Program - The  Balance: {"success":1,"return":{"rights":{"info":1,"trade":1,"deposit":1,"withdraw":1},"transaction_count":0,"open_orders":0,"server_time":1502280963}}
+[Header]\r\n2017-08-09 17:47:13,107 [9] INFO Yobit_Coinmovement_Application.Program - The  Balance: {"success":0,"error":"invalid nonce (max 2147483646), please generate new key"}
+[Header]\r\n2017-08-09 17:47:42,837 [10] INFO Yobit_Coinmovement_Application.Program - The  Balance: {"success":1,"return":{"rights":{"info":1,"trade":1,"deposit":1,"withdraw":1},"transaction_count":0,"open_orders":0,"server_time":1502281063}}
+[Header]\r\n2017-08-09 17:53:36,628 [9] INFO Yobit_Coinmovement_Application.Program - The DepositeAddress Response : {"success":1,"return":{"address":"12BVes1a1bzxDhR1puT9JAqDSnnEGF6UyV","processed_amount":0.00000000,"server_time":1502281416}}
+[Header]\r\n2017-08-09 17:54:47,054 [10] INFO Yobit_Coinmovement_Application.Program - The DepositeAddress Response : {"success":1,"return":{"address":"0x4de414d99e53c6d0d5442f4ffd27e579b304f013","processed_amount":0.00000000,"server_time":1502281487}}

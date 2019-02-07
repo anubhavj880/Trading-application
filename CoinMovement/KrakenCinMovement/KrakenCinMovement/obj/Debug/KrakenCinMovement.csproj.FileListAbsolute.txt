@@ -1,0 +1,6 @@
+F:\TradingProject\Alpha_Ai_App\CoinMovement\KrakenCinMovement\KrakenCinMovement\bin\Debug\KrakenCinMovement.exe.config
+F:\TradingProject\Alpha_Ai_App\CoinMovement\KrakenCinMovement\KrakenCinMovement\bin\Debug\KrakenCinMovement.exe
+F:\TradingProject\Alpha_Ai_App\CoinMovement\KrakenCinMovement\KrakenCinMovement\bin\Debug\KrakenCinMovement.pdb
+F:\TradingProject\Alpha_Ai_App\CoinMovement\KrakenCinMovement\KrakenCinMovement\obj\Debug\KrakenCinMovement.csprojResolveAssemblyReference.cache
+F:\TradingProject\Alpha_Ai_App\CoinMovement\KrakenCinMovement\KrakenCinMovement\obj\Debug\KrakenCinMovement.exe
+F:\TradingProject\Alpha_Ai_App\CoinMovement\KrakenCinMovement\KrakenCinMovement\obj\Debug\KrakenCinMovement.pdb

@@ -1,0 +1,489 @@
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Poloniex_REST_ExchangeClient.exe.config
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x86\librdkafka.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x86\librdkafkacpp.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x86\msvcr120.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x86\zlib.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x64\librdkafka.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x64\librdkafkacpp.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x64\msvcr120.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x64\zlib.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Poloniex_REST_ExchangeClient.exe
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Poloniex_REST_ExchangeClient.pdb
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Confluent.Kafka.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\log4net.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Newtonsoft.Json.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\RestSharp.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Confluent.Kafka.xml
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\log4net.xml
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Newtonsoft.Json.xml
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\RestSharp.xml
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\obj\Debug\Poloniex_REST_ExchangeClient.csprojResolveAssemblyReference.cache
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\obj\Debug\Poloniex_REST_ExchangeClient.exe
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\obj\Debug\Poloniex_REST_ExchangeClient.pdb
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Castle.Core.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Fleck.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\MsgPack.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Newtonsoft.Msgpack.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\SuperSocket.ClientEngine.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Collections.Immutable.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Core.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Interfaces.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Linq.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.PlatformServices.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Windows.Threading.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Threading.Tasks.Dataflow.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.ValueTuple.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.Default.Client.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.Default.Router.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.Fleck.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.NewtonsoftJson.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.NewtonsoftMsgpack.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.WebSocket4Net.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WebSocket4Net.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Castle.Core.xml
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\MsgPack.xml
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Collections.Immutable.xml
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Core.xml
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Interfaces.xml
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Linq.xml
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.PlatformServices.xml
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Windows.Threading.xml
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Threading.Tasks.Dataflow.xml
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.xml
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.Default.Client.xml
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.Default.Router.xml
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.Fleck.xml
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.NewtonsoftJson.xml
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.NewtonsoftMsgpack.xml
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.WebSocket4Net.xml
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Azure.Management.DataLake.Store.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.Authentication.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Azure.Management.DataLake.Store.xml
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.Authentication.xml
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Poloniex_REST_ExchangeClient.exe.config
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\obj\Debug\Poloniex_REST_ExchangeClient.exe
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\obj\Debug\Poloniex_REST_ExchangeClient.pdb
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x86\librdkafka.dll
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x86\librdkafkacpp.dll
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x86\msvcr120.dll
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x86\zlib.dll
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x64\librdkafka.dll
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x64\librdkafkacpp.dll
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x64\msvcr120.dll
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x64\zlib.dll
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Poloniex_REST_ExchangeClient.exe
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Poloniex_REST_ExchangeClient.pdb
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Castle.Core.dll
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Confluent.Kafka.dll
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Fleck.dll
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\log4net.dll
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Azure.Management.DataLake.Store.dll
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.Authentication.dll
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\MsgPack.dll
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Newtonsoft.Json.dll
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Newtonsoft.Msgpack.dll
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\RestSharp.dll
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\SuperSocket.ClientEngine.dll
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Collections.Immutable.dll
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Core.dll
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Interfaces.dll
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Linq.dll
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.PlatformServices.dll
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Windows.Threading.dll
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Threading.Tasks.Dataflow.dll
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.ValueTuple.dll
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.Default.Client.dll
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.Default.Router.dll
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.dll
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.Fleck.dll
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.NewtonsoftJson.dll
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.NewtonsoftMsgpack.dll
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.WebSocket4Net.dll
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WebSocket4Net.dll
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Castle.Core.xml
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Confluent.Kafka.xml
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\log4net.xml
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Azure.Management.DataLake.Store.xml
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.Authentication.xml
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\MsgPack.xml
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Newtonsoft.Json.xml
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\RestSharp.xml
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Collections.Immutable.xml
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Core.xml
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Interfaces.xml
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Linq.xml
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.PlatformServices.xml
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Windows.Threading.xml
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Threading.Tasks.Dataflow.xml
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.xml
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.Default.Client.xml
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.Default.Router.xml
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.Fleck.xml
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.NewtonsoftJson.xml
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.NewtonsoftMsgpack.xml
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.WebSocket4Net.xml
+F:\Exchange_C#_code\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\obj\Debug\Poloniex_REST_ExchangeClient.csprojResolveAssemblyReference.cache
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Poloniex_REST_ExchangeClient.exe.config
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\obj\Debug\Poloniex_REST_ExchangeClient.exe
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\obj\Debug\Poloniex_REST_ExchangeClient.pdb
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x86\librdkafka.dll
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x86\librdkafkacpp.dll
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x86\msvcr120.dll
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x86\zlib.dll
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x64\librdkafka.dll
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x64\librdkafkacpp.dll
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x64\msvcr120.dll
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x64\zlib.dll
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Poloniex_REST_ExchangeClient.exe
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Poloniex_REST_ExchangeClient.pdb
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Castle.Core.dll
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Confluent.Kafka.dll
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Fleck.dll
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\log4net.dll
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Azure.Management.DataLake.Store.dll
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.Authentication.dll
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\MsgPack.dll
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Newtonsoft.Json.dll
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Newtonsoft.Msgpack.dll
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\RestSharp.dll
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\SuperSocket.ClientEngine.dll
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Collections.Immutable.dll
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Core.dll
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Interfaces.dll
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Linq.dll
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.PlatformServices.dll
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Windows.Threading.dll
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.ValueTuple.dll
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.Default.Client.dll
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.Default.Router.dll
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.dll
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.Fleck.dll
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.NewtonsoftJson.dll
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.NewtonsoftMsgpack.dll
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.WebSocket4Net.dll
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WebSocket4Net.dll
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Castle.Core.xml
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Confluent.Kafka.xml
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\log4net.xml
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Azure.Management.DataLake.Store.xml
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.Authentication.xml
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\MsgPack.xml
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Newtonsoft.Json.xml
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\RestSharp.xml
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Collections.Immutable.xml
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Core.xml
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Interfaces.xml
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Linq.xml
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.PlatformServices.xml
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Windows.Threading.xml
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Threading.Tasks.Dataflow.xml
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.xml
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.Default.Client.xml
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.Default.Router.xml
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.Fleck.xml
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.NewtonsoftJson.xml
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.NewtonsoftMsgpack.xml
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.WebSocket4Net.xml
+D:\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\obj\Debug\Poloniex_REST_ExchangeClient.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Poloniex_REST_ExchangeClient.exe.config
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\obj\Debug\Poloniex_REST_ExchangeClient.exe
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\obj\Debug\Poloniex_REST_ExchangeClient.pdb
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x86\librdkafka.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x86\librdkafkacpp.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x86\msvcr120.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x86\zlib.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x64\librdkafka.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x64\librdkafkacpp.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x64\msvcr120.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x64\zlib.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Poloniex_REST_ExchangeClient.exe
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Poloniex_REST_ExchangeClient.pdb
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Castle.Core.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Confluent.Kafka.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Fleck.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Azure.Management.DataLake.Store.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.Authentication.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\MsgPack.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Newtonsoft.Msgpack.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\RestSharp.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\SuperSocket.ClientEngine.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Core.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Linq.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Windows.Threading.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.ValueTuple.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.Default.Client.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.Default.Router.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.Fleck.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.NewtonsoftJson.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.NewtonsoftMsgpack.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.WebSocket4Net.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WebSocket4Net.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Castle.Core.xml
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Confluent.Kafka.xml
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\log4net.xml
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Azure.Management.DataLake.Store.xml
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.Authentication.xml
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\MsgPack.xml
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\RestSharp.xml
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Core.xml
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Linq.xml
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Windows.Threading.xml
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.xml
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.Default.Client.xml
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.Default.Router.xml
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.Fleck.xml
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.NewtonsoftJson.xml
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.NewtonsoftMsgpack.xml
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.WebSocket4Net.xml
+C:\Users\Administrator\Desktop\ExchangeClient\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\obj\Debug\Poloniex_REST_ExchangeClient.csprojResolveAssemblyReference.cache
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Poloniex_REST_ExchangeClient.exe.config
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\obj\Debug\Poloniex_REST_ExchangeClient.exe
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\obj\Debug\Poloniex_REST_ExchangeClient.pdb
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x86\librdkafka.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x86\librdkafkacpp.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x86\msvcr120.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x86\zlib.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x64\librdkafka.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x64\librdkafkacpp.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x64\msvcr120.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x64\zlib.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Poloniex_REST_ExchangeClient.exe
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Poloniex_REST_ExchangeClient.pdb
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Castle.Core.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Confluent.Kafka.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Fleck.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\log4net.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Azure.Management.DataLake.Store.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.Authentication.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\MsgPack.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Newtonsoft.Json.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Newtonsoft.Msgpack.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\RestSharp.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\SuperSocket.ClientEngine.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Collections.Immutable.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Core.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Interfaces.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Linq.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.PlatformServices.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Windows.Threading.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Threading.Tasks.Dataflow.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.ValueTuple.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.Default.Client.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.Default.Router.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.Fleck.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.NewtonsoftJson.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.NewtonsoftMsgpack.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.WebSocket4Net.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WebSocket4Net.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Castle.Core.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Confluent.Kafka.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\log4net.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Azure.Management.DataLake.Store.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.Authentication.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\MsgPack.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Newtonsoft.Json.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\RestSharp.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Collections.Immutable.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Core.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Interfaces.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Linq.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.PlatformServices.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Windows.Threading.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Threading.Tasks.Dataflow.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.Default.Client.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.Default.Router.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.Fleck.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.NewtonsoftJson.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.NewtonsoftMsgpack.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.WebSocket4Net.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ExchangeClient\Poloniex_REST_ExchangeClient\obj\Debug\Poloniex_REST_ExchangeClient.csprojResolveAssemblyReference.cache
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Poloniex_REST_ExchangeClient.exe.config
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\obj\Debug\Poloniex_REST_ExchangeClient.exe
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\obj\Debug\Poloniex_REST_ExchangeClient.pdb
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x86\librdkafka.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x86\librdkafkacpp.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x86\msvcr120.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x86\zlib.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x64\librdkafka.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x64\librdkafkacpp.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x64\msvcr120.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x64\zlib.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Poloniex_REST_ExchangeClient.exe
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Poloniex_REST_ExchangeClient.pdb
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Castle.Core.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Confluent.Kafka.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Fleck.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\log4net.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Azure.Management.DataLake.Store.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.Authentication.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\MsgPack.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Newtonsoft.Json.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Newtonsoft.Msgpack.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\RestSharp.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\SuperSocket.ClientEngine.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Collections.Immutable.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Core.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Interfaces.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Linq.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.PlatformServices.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Windows.Threading.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Threading.Tasks.Dataflow.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.ValueTuple.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.Default.Client.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.Default.Router.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.Fleck.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.NewtonsoftJson.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.NewtonsoftMsgpack.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.WebSocket4Net.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WebSocket4Net.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Castle.Core.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Confluent.Kafka.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\log4net.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Azure.Management.DataLake.Store.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.Authentication.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\MsgPack.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Newtonsoft.Json.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\RestSharp.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Collections.Immutable.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Core.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Interfaces.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Linq.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.PlatformServices.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Windows.Threading.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Threading.Tasks.Dataflow.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.Default.Client.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.Default.Router.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.Fleck.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.NewtonsoftJson.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.NewtonsoftMsgpack.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.WebSocket4Net.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\obj\Debug\Poloniex_REST_ExchangeClient.csprojResolveAssemblyReference.cache
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Poloniex_REST_ExchangeClient.exe.config
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\obj\Debug\Poloniex_REST_ExchangeClient.exe
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\obj\Debug\Poloniex_REST_ExchangeClient.pdb
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x86\librdkafka.dll
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x86\librdkafkacpp.dll
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x86\msvcr120.dll
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x86\zlib.dll
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x64\librdkafka.dll
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x64\librdkafkacpp.dll
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x64\msvcr120.dll
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\x64\zlib.dll
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Poloniex_REST_ExchangeClient.exe
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Poloniex_REST_ExchangeClient.pdb
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Castle.Core.dll
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Confluent.Kafka.dll
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Fleck.dll
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\log4net.dll
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Azure.Management.DataLake.Store.dll
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.Authentication.dll
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\MsgPack.dll
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Newtonsoft.Json.dll
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Newtonsoft.Msgpack.dll
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\RestSharp.dll
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\SuperSocket.ClientEngine.dll
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Collections.Immutable.dll
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Core.dll
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Interfaces.dll
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Linq.dll
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.PlatformServices.dll
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Windows.Threading.dll
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.ValueTuple.dll
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.Default.Client.dll
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.Default.Router.dll
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.dll
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.Fleck.dll
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.NewtonsoftJson.dll
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.NewtonsoftMsgpack.dll
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.WebSocket4Net.dll
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WebSocket4Net.dll
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Castle.Core.xml
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Confluent.Kafka.xml
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\log4net.xml
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Azure.Management.DataLake.Store.xml
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.Authentication.xml
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\MsgPack.xml
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\Newtonsoft.Json.xml
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\RestSharp.xml
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Collections.Immutable.xml
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Core.xml
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Interfaces.xml
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Linq.xml
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.PlatformServices.xml
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Reactive.Windows.Threading.xml
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\System.Threading.Tasks.Dataflow.xml
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.xml
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.Default.Client.xml
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.Default.Router.xml
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.Fleck.xml
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.NewtonsoftJson.xml
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.NewtonsoftMsgpack.xml
+D:\ExchangeClient\Poloniex_REST_ProxyExchangeClient\Poloniex_REST_ExchangeClient\bin\Debug\WampSharp.WebSocket4Net.xml

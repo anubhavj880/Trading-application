@@ -1,0 +1,187 @@
+    ======  ======
+    Time:6/13/2017 4:29:43 PM
+    Title: Initiate log
+    Message: 
+    Time:6/13/2017 4:29:43 PM
+    Title: Initiate InternalManager
+    Message: Trying to Validate License
+    Time:6/13/2017 4:29:43 PM
+    Title: Requesting EVT
+    Message: EVTP
+    Time:6/13/2017 4:29:43 PM
+    Title: Requesting Validation
+    Message: ILMValidate
+    Time:6/13/2017 4:29:43 PM
+    Title: LICENSER
+    Message: TRL MODE
+    Time:6/13/2017 4:29:43 PM
+    Title: LICENSER
+    Message: DS LEFT-160
+    Time:6/13/2017 4:29:43 PM
+    Title: LICENSER
+    Message: DT MARK PASSED-160.00:00:00
+    Time:6/13/2017 4:29:43 PM
+    Title: ILMValidate action
+    Message: LIC
+    Time:6/13/2017 4:29:44 PM
+    Title: LICENSER - TGO
+    Message: Start
+    Feature '' is enabled for the current VSIX Xamarin.VisualStudio (4.1.1)
+    Feature '' is enabled for the current VSIX Xamarin.VisualStudio (4.1.1)
+    Feature '' is enabled for the current VSIX Xamarin.VisualStudio (4.1.1)
+    Entering constructor for: Xamarin.VisualStudio.Shell.XamarinShellPackage
+    Entering constructor for: Telerik.CommonPackage.Telerik_CommonPackagePackage
+    Entering Initialize() of: Telerik.CommonPackage.Telerik_CommonPackagePackage
+    Feature '' is enabled for the current VSIX Xamarin.VisualStudio (4.1.1)
+    Failed to check for updates.
+    Entering constructor for: Microsoft.PythonTools.PythonToolsPackage
+    Entering Initialize() of: Microsoft.PythonTools.PythonToolsPackage
+    devenv.exe Information: 0 : 6/13/2017 11:00:03 AM:  - TokenCache: Deserialized 9 items to token cache.
+    devenv.exe Information: 0 : 6/13/2017 11:00:03 AM:  - AuthenticationContext: ADAL .NET with assembly version '2.16.0.0', file version '2.16.20422.1202' and informational version '7329346b1c69910ce7abd66c3f8a918c307827a1' is running...
+    devenv.exe Information: 0 : 6/13/2017 11:00:03 AM: b2bec8b0-9ca7-4397-bf47-23a3c47cf248 - AcquireTokenHandlerBase: === Token Acquisition started:
+	Authority: https://login.microsoftonline.com/f8cdef31-a31e-4b4a-93e4-5f571e91255a/
+	Resource: 499b84ac-1321-427f-aa17-267ca6975798
+	ClientId: 872cd9fa-d31f-45e0-9eab-6e460a02d1f1
+	CacheType: Microsoft.VisualStudio.Services.Client.AccountManagement.AccountManagerAdalCache (9 items)
+	Authentication Target: User
+	
+    devenv.exe Information: 0 : 6/13/2017 11:00:03 AM: b2bec8b0-9ca7-4397-bf47-23a3c47cf248 - TokenCache: Looking up cache for a token...
+    devenv.exe Information: 0 : 6/13/2017 11:00:03 AM: b2bec8b0-9ca7-4397-bf47-23a3c47cf248 - TokenCache: No matching token was found in the cache
+    devenv.exe Information: 0 : 6/13/2017 11:00:03 AM: b2bec8b0-9ca7-4397-bf47-23a3c47cf248 - AcquireTokenSilentHandler: No token matching arguments found in the cache
+    devenv.exe Error: 0 : 6/13/2017 11:00:03 AM: b2bec8b0-9ca7-4397-bf47-23a3c47cf248 - <RunAsync>d__0: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalSilentTokenAcquisitionException: Failed to acquire token silently. Call method AcquireToken
+   at Microsoft.IdentityModel.Clients.ActiveDirectory.AcquireTokenSilentHandler.SendTokenRequestAsync()
+   at Microsoft.IdentityModel.Clients.ActiveDirectory.AcquireTokenHandlerBase.<RunAsync>d__0.MoveNext()
+	ErrorCode: failed_to_acquire_token_silently
+    devenv.exe Information: 0 : 6/13/2017 11:00:04 AM: 35f412b8-b09a-4960-b75c-4daef0e2b1a6 - AcquireTokenHandlerBase: === Token Acquisition started:
+	Authority: https://login.microsoftonline.com/f8cdef31-a31e-4b4a-93e4-5f571e91255a/
+	Resource: 499b84ac-1321-427f-aa17-267ca6975798
+	ClientId: 872cd9fa-d31f-45e0-9eab-6e460a02d1f1
+	CacheType: Microsoft.VisualStudio.Services.Client.AccountManagement.AccountManagerAdalCache (9 items)
+	Authentication Target: User
+	
+    devenv.exe Information: 0 : 6/13/2017 11:00:04 AM: 35f412b8-b09a-4960-b75c-4daef0e2b1a6 - TokenCache: Looking up cache for a token...
+    devenv.exe Information: 0 : 6/13/2017 11:00:04 AM: 35f412b8-b09a-4960-b75c-4daef0e2b1a6 - TokenCache: No matching token was found in the cache
+    devenv.exe Information: 0 : 6/13/2017 11:00:04 AM: 35f412b8-b09a-4960-b75c-4daef0e2b1a6 - AcquireTokenSilentHandler: No token matching arguments found in the cache
+    devenv.exe Error: 0 : 6/13/2017 11:00:04 AM: 35f412b8-b09a-4960-b75c-4daef0e2b1a6 - <RunAsync>d__0: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalSilentTokenAcquisitionException: Failed to acquire token silently. Call method AcquireToken
+   at Microsoft.IdentityModel.Clients.ActiveDirectory.AcquireTokenSilentHandler.SendTokenRequestAsync()
+   at Microsoft.IdentityModel.Clients.ActiveDirectory.AcquireTokenHandlerBase.<RunAsync>d__0.MoveNext()
+	ErrorCode: failed_to_acquire_token_silently
+    devenv.exe Information: 0 : 6/13/2017 11:00:05 AM: d1def37a-0807-4d5e-8ef6-7513a25e9887 - AcquireTokenHandlerBase: === Token Acquisition started:
+	Authority: https://login.microsoftonline.com/f8cdef31-a31e-4b4a-93e4-5f571e91255a/
+	Resource: 499b84ac-1321-427f-aa17-267ca6975798
+	ClientId: 872cd9fa-d31f-45e0-9eab-6e460a02d1f1
+	CacheType: Microsoft.VisualStudio.Services.Client.AccountManagement.AccountManagerAdalCache (9 items)
+	Authentication Target: User
+	
+    devenv.exe Information: 0 : 6/13/2017 11:00:05 AM: d1def37a-0807-4d5e-8ef6-7513a25e9887 - TokenCache: Looking up cache for a token...
+    devenv.exe Information: 0 : 6/13/2017 11:00:05 AM: d1def37a-0807-4d5e-8ef6-7513a25e9887 - TokenCache: No matching token was found in the cache
+    devenv.exe Information: 0 : 6/13/2017 11:00:05 AM: d1def37a-0807-4d5e-8ef6-7513a25e9887 - AcquireTokenSilentHandler: No token matching arguments found in the cache
+    devenv.exe Error: 0 : 6/13/2017 11:00:05 AM: d1def37a-0807-4d5e-8ef6-7513a25e9887 - <RunAsync>d__0: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalSilentTokenAcquisitionException: Failed to acquire token silently. Call method AcquireToken
+   at Microsoft.IdentityModel.Clients.ActiveDirectory.AcquireTokenSilentHandler.SendTokenRequestAsync()
+   at Microsoft.IdentityModel.Clients.ActiveDirectory.AcquireTokenHandlerBase.<RunAsync>d__0.MoveNext()
+	ErrorCode: failed_to_acquire_token_silently
+    Web method running: [https://app.vssps.visualstudio.com/_apis/Token/SessionTokens?isPublic=False] (POST)SessionTokens[Token]
+    Web method running: [https://app.vssps.visualstudio.com/_apis/connectionData?connectOptions=None&lastChangeId=240&lastChangeId64=240] (GET)connectionData[connectionData]
+    Web method response: [https://app.vssps.visualstudio.com/_apis/connectionData?connectOptions=None&lastChangeId=240&lastChangeId64=240] (GET)connectionData[connectionData] 94 ms
+    Web method running: [https://app.vsspsext.visualstudio.com/_apis/connectionData?connectOptions=None&lastChangeId=30306&lastChangeId64=30306] (GET)connectionData[connectionData]
+    Web method response: [https://app.vsspsext.visualstudio.com/_apis/connectionData?connectOptions=None&lastChangeId=30306&lastChangeId64=30306] (GET)connectionData[connectionData] 221 ms
+    Web method running: [https://app.vsspsext.visualstudio.com/_apis/Profile/Profiles/me?details=true&withattributes=false&coreattributes=Minimal%2CEmail%2CAvatar%2CDisplayName%2CAll] (GET)me[Profile]
+    Web method response: [https://app.vsspsext.visualstudio.com/_apis/Profile/Profiles/me?details=true&withattributes=false&coreattributes=Minimal%2CEmail%2CAvatar%2CDisplayName%2CAll] (GET)me[Profile] 81 ms
+    Web method running: [https://app.vsspsext.visualstudio.com/_apis/Profile/Locations?profilePageType=Update] (GET)Locations[Profile]
+    Web method response: [https://app.vsspsext.visualstudio.com/_apis/Profile/Locations?profilePageType=Update] (GET)Locations[Profile] 33 ms
+    Web method running: [https://app.vsspsext.visualstudio.com/_apis/Profile/Settings/ProfileRefreshInterval] (GET)ProfileRefreshInterval[Profile]
+    Web method response: [https://app.vsspsext.visualstudio.com/_apis/Profile/Settings/ProfileRefreshInterval] (GET)ProfileRefreshInterval[Profile] 18 ms
+    Web method running: [https://app.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Attributes?partition=VisualStudio.14_PreferredProfile&modifiedafterrevision=531763] (GET)Attributes[Profile]
+    Web method running: [https://app.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Avatar?size=Small] (GET)Avatar[Profile]
+    Web method running: [https://app.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Avatar?size=Large] (GET)Avatar[Profile]
+    Web method response: [https://app.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Attributes?partition=VisualStudio.14_PreferredProfile&modifiedafterrevision=531763] (GET)Attributes[Profile] 74 ms
+    Web method response: [https://app.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Avatar?size=Small] (GET)Avatar[Profile] 88 ms
+    Web method response: [https://app.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Avatar?size=Large] (GET)Avatar[Profile] 109 ms
+ running: [https://app.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Attributes?partition=VisualStudio.14_PreferredProfile&modifiedafterrevision=531763] (GET)Attributes[Profile]
+    Web method response: [https://app.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Attributes?partition=VisualStudio.14_PreferredProfile&modifiedafterrevision=531763] (GET)Attributes[Profile] 35 ms
+    Web method running: [https://app.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Attributes?partition=VisualStudio.14_PreferredProfile&withcoreattributes=true&coreattributes=Minimal%2CEmail%2CAvatar%2CDisplayName%2CAll&modifiedafterrevision=531763] (GET)Attributes[Profile]
+    Web method response: [https://app.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Attributes?partition=VisualStudio.14_PreferredProfile&withcoreattributes=true&coreattributes=Minimal%2CEmail%2CAvatar%2CDisplayName%2CAll&modifiedafterrevision=531763] (GET)Attributes[Profile] 234 ms
+ for typechar.
+    we have a completion session.
+    committing the session...
+    the char commit/dismiss -ed a session and is trigerring completion again. starting model computation.
+    Entered completion command handler for typechar.
+    no completion session yet and this is NOT a trigger char, we won't have completion.
+    Entered completion command handler for typechar.
+    no completion session yet and this is NOT a trigger char, we won't have completion.
+letion session yet and this is a trigger char, starting model computation.
+    Entered completion command handler for typechar.
+    no completion session yet and this is NOT a trigger char, we won't have completion.
+    Entered completion command handler for typechar.
+    no completion session yet and this is a trigger char, starting model computation.
+    Entered completion command handler for typechar.
+    no completion session yet and this is NOT a trigger char, we won't have completion.
+    Entered completion command handler for typechar.
+    no completion session yet and this is NOT a trigger char, we won't have completion.
+    Entered completion command handler for typechar.
+    no completion session yet and this is a trigger char, starting model computation.
+    Entered completion command handler for typechar.
+    no completion session yet and this is NOT a trigger char, we won't have completion.
+    Entered completion command handler for typechar.
+    no completion session yet and this is NOT a trigger char, we won't have completion.
+    Entered completion command handler for typechar.
+    no completion session yet and this is a trigger char, starting model computation.
+    Entered completion command handler for typechar.
+    no completion session yet and this is NOT a trigger char, we won't have completion.
+    Entered completion command handler for typechar.
+    no completion session yet and this is a trigger char, starting model computation.
+    Entered completion command handler for typechar.
+    no completion session yet and this is NOT a trigger char, we won't have completion.
+lSilentTokenAcquisitionException: Failed to acquire token silently. Call method AcquireToken
+   at Microsoft.IdentityModel.Clients.ActiveDirectory.AcquireTokenSilentHandler.SendTokenRequestAsync()
+   at Microsoft.IdentityModel.Clients.ActiveDirectory.AcquireTokenHandlerBase.<RunAsync>d__0.MoveNext()
+	ErrorCode: failed_to_acquire_token_silently
+    devenv.exe Information: 0 : 6/7/2017 11:16:15 AM: e13be6c6-c7dc-4aab-83e3-aedd4f05a646 - AcquireTokenHandlerBase: === Token Acquisition started:
+	Authority: https://login.microsoftonline.com/f8cdef31-a31e-4b4a-93e4-5f571e91255a/
+	Resource: 499b84ac-1321-427f-aa17-267ca6975798
+	ClientId: 872cd9fa-d31f-45e0-9eab-6e460a02d1f1
+	CacheType: Microsoft.VisualStudio.Services.Client.AccountManagement.AccountManagerAdalCache (9 items)
+	Authentication Target: User
+	
+    devenv.exe Information: 0 : 6/7/2017 11:16:15 AM: e13be6c6-c7dc-4aab-83e3-aedd4f05a646 - TokenCache: Looking up cache for a token...
+    devenv.exe Information: 0 : 6/7/2017 11:16:15 AM: e13be6c6-c7dc-4aab-83e3-aedd4f05a646 - TokenCache: No matching token was found in the cache
+    devenv.exe Information: 0 : 6/7/2017 11:16:15 AM: e13be6c6-c7dc-4aab-83e3-aedd4f05a646 - AcquireTokenSilentHandler: No token matching arguments found in the cache
+    devenv.exe Error: 0 : 6/7/2017 11:16:15 AM: e13be6c6-c7dc-4aab-83e3-aedd4f05a646 - <RunAsync>d__0: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalSilentTokenAcquisitionException: Failed to acquire token silently. Call method AcquireToken
+   at Microsoft.IdentityModel.Clients.ActiveDirectory.AcquireTokenSilentHandler.SendTokenRequestAsync()
+   at Microsoft.IdentityModel.Clients.ActiveDirectory.AcquireTokenHandlerBase.<RunAsync>d__0.MoveNext()
+	ErrorCode: failed_to_acquire_token_silently
+    Web method running: [https://app.vssps.visualstudio.com/_apis/Token/SessionTokens?isPublic=False] (POST)SessionTokens[Token]
+    Web method running: [https://app.vssps.visualstudio.com/_apis/Licensing/ClientRights/VisualStudio?productVersion=14.0.25420.1%20D14REL&edition=Community&relType=release&includeCertificate=true&canary=be47202a-042b-4c03-836a-1d67aa296368&machineId=be47202a-042b-4c03-836a-1d67aa296368&t-PidInfo=2000&t-UserMachineId=be47202a-042b-4c03-836a-1d67aa296368&t-GlobalMachineId=118bde81-1537-44ff-a00f-dddf7368cf2a&t-VsInstanceId=3bd16dba-de02-4d17-a00a-dec7c084816a] (GET)VisualStudio[Licensing]
+    Web method response: [https://app.vssps.visualstudio.com/_apis/Licensing/ClientRights/VisualStudio?productVersion=14.0.25420.1%20D14REL&edition=Community&relType=release&includeCertificate=true&canary=be47202a-042b-4c03-836a-1d67aa296368&machineId=be47202a-042b-4c03-836a-1d67aa296368&t-PidInfo=2000&t-UserMachineId=be47202a-042b-4c03-836a-1d67aa296368&t-GlobalMachineId=118bde81-1537-44ff-a00f-dddf7368cf2a&t-VsInstanceId=3bd16dba-de02-4d17-a00a-dec7c084816a] (GET)VisualStudio[Licensing] 857 ms
+    Web method running: [https://app.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Attributes?partition=VisualStudio.14_PreferredProfile&withcoreattributes=true&coreattributes=Minimal%2CEmail%2CAvatar%2CDisplayName%2CAll&modifiedafterrevision=531763] (GET)Attributes[Profile]
+    Web method response: [https://app.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Attributes?partition=VisualStudio.14_PreferredProfile&withcoreattributes=true&coreattributes=Minimal%2CEmail%2CAvatar%2CDisplayName%2CAll&modifiedafterrevision=531763] (GET)Attributes[Profile] 50 ms
+    Entered completion command handler for typechar.
+    no completion session yet and this is NOT a trigger char, we won't have completion.
+    Entered completion command handler for typechar.
+    no completion session yet and this is NOT a trigger char, we won't have completion.
+    Entered completion command handler for typechar.
+    no completion session yet and this is NOT a trigger char, we won't have completion.
+    Entered completion command handler for typechar.
+    no completion session yet and this is NOT a trigger char, we won't have completion.
+    Entered completion command handler for typechar.
+    no completion session yet and this is NOT a trigger char, we won't have completion.
+    Failed to check for updates.
+    Failed to check for updates.
+    Failed to check for updates.
+    Failed to check for updates.
+    Failed to check for updates.
+    Failed to check for updates.
+    Failed to check for updates.
+    Failed to check for updates.
+    Failed to check for updates.
+    Failed to check for updates.
+    Failed to check for updates.
+    Failed to check for updates.
+    Failed to check for updates.
+    Failed to check for updates.
+    Failed to check for updates.
+    Failed to check for updates.
+    Failed to check for updates.
+    Failed to check for updates.
+    Failed to check for updates.
+    Failed to check for updates.

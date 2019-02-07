@@ -1,0 +1,13 @@
+﻿Installing assembly 'F:\Exchange_C#_code\Coinbase_ExchangeConnection_Client\Coinbase_ExchangeConnection_Client\bin\Debug\Coinbase_ExchangeConnection_Client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Exchange_C#_code\Coinbase_ExchangeConnection_Client\Coinbase_ExchangeConnection_Client\bin\Debug\Coinbase_ExchangeConnection_Client.InstallLog
+   assemblypath = F:\Exchange_C#_code\Coinbase_ExchangeConnection_Client\Coinbase_ExchangeConnection_Client\bin\Debug\Coinbase_ExchangeConnection_Client.exe
+Installing service Coinbase_ExchangeConnection_Client...
+Service Coinbase_ExchangeConnection_Client has been successfully installed.
+Creating EventLog source Coinbase_ExchangeConnection_Client in log Application...
+Committing assembly 'F:\Exchange_C#_code\Coinbase_ExchangeConnection_Client\Coinbase_ExchangeConnection_Client\bin\Debug\Coinbase_ExchangeConnection_Client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Exchange_C#_code\Coinbase_ExchangeConnection_Client\Coinbase_ExchangeConnection_Client\bin\Debug\Coinbase_ExchangeConnection_Client.InstallLog
+   assemblypath = F:\Exchange_C#_code\Coinbase_ExchangeConnection_Client\Coinbase_ExchangeConnection_Client\bin\Debug\Coinbase_ExchangeConnection_Client.exe

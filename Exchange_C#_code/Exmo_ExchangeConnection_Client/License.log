@@ -1,0 +1,114 @@
+    ======  ======
+    Time:6/13/2017 8:29:32 PM
+    Title: Initiate log
+    Message: 
+    Time:6/13/2017 8:29:32 PM
+    Title: Initiate InternalManager
+    Message: Trying to Validate License
+    Time:6/13/2017 8:29:32 PM
+    Title: Requesting EVT
+    Message: EVTP
+    Time:6/13/2017 8:29:32 PM
+    Title: Requesting Validation
+    Message: ILMValidate
+    Time:6/13/2017 8:29:32 PM
+    Title: LICENSER
+    Message: TRL MODE
+    Time:6/13/2017 8:29:32 PM
+    Title: LICENSER
+    Message: DS LEFT-160
+    Time:6/13/2017 8:29:32 PM
+    Title: LICENSER
+    Message: DT MARK PASSED-160.00:00:00
+    Time:6/13/2017 8:29:32 PM
+    Title: ILMValidate action
+    Message: LIC
+    Time:6/13/2017 8:29:32 PM
+    Title: LICENSER - TGO
+    Message: Start
+    Feature '' is enabled for the current VSIX Xamarin.VisualStudio (4.1.1)
+    Feature '' is enabled for the current VSIX Xamarin.VisualStudio (4.1.1)
+    Feature '' is enabled for the current VSIX Xamarin.VisualStudio (4.1.1)
+    Entering constructor for: Xamarin.VisualStudio.Shell.XamarinShellPackage
+    Entering constructor for: Telerik.CommonPackage.Telerik_CommonPackagePackage
+    Entering Initialize() of: Telerik.CommonPackage.Telerik_CommonPackagePackage
+    Feature '' is enabled for the current VSIX Xamarin.VisualStudio (4.1.1)
+    Failed to check for updates.
+    Entering constructor for: Microsoft.PythonTools.PythonToolsPackage
+    Entering Initialize() of: Microsoft.PythonTools.PythonToolsPackage
+    devenv.exe Information: 0 : 6/13/2017 2:59:51 PM:  - TokenCache: Deserialized 9 items to token cache.
+    devenv.exe Information: 0 : 6/13/2017 2:59:51 PM:  - AuthenticationContext: ADAL .NET with assembly version '2.16.0.0', file version '2.16.20422.1202' and informational version '7329346b1c69910ce7abd66c3f8a918c307827a1' is running...
+    devenv.exe Information: 0 : 6/13/2017 2:59:51 PM: 16abb1ca-dcae-467e-8412-388261366367 - AcquireTokenHandlerBase: === Token Acquisition started:
+	Authority: https://login.microsoftonline.com/f8cdef31-a31e-4b4a-93e4-5f571e91255a/
+	Resource: 499b84ac-1321-427f-aa17-267ca6975798
+	ClientId: 872cd9fa-d31f-45e0-9eab-6e460a02d1f1
+	CacheType: Microsoft.VisualStudio.Services.Client.AccountManagement.AccountManagerAdalCache (9 items)
+	Authentication Target: User
+	
+    devenv.exe Information: 0 : 6/13/2017 2:59:51 PM: 16abb1ca-dcae-467e-8412-388261366367 - TokenCache: Looking up cache for a token...
+    devenv.exe Information: 0 : 6/13/2017 2:59:51 PM: 16abb1ca-dcae-467e-8412-388261366367 - TokenCache: No matching token was found in the cache
+    devenv.exe Information: 0 : 6/13/2017 2:59:51 PM: 16abb1ca-dcae-467e-8412-388261366367 - AcquireTokenSilentHandler: No token matching arguments found in the cache
+    devenv.exe Error: 0 : 6/13/2017 2:59:51 PM: 16abb1ca-dcae-467e-8412-388261366367 - <RunAsync>d__0: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalSilentTokenAcquisitionException: Failed to acquire token silently. Call method AcquireToken
+   at Microsoft.IdentityModel.Clients.ActiveDirectory.AcquireTokenSilentHandler.SendTokenRequestAsync()
+   at Microsoft.IdentityModel.Clients.ActiveDirectory.AcquireTokenHandlerBase.<RunAsync>d__0.MoveNext()
+	ErrorCode: failed_to_acquire_token_silently
+    devenv.exe Information: 0 : 6/13/2017 2:59:52 PM: 6f45dbed-db87-442f-9833-2f56aec7115a - AcquireTokenHandlerBase: === Token Acquisition started:
+	Authority: https://login.microsoftonline.com/f8cdef31-a31e-4b4a-93e4-5f571e91255a/
+	Resource: 499b84ac-1321-427f-aa17-267ca6975798
+	ClientId: 872cd9fa-d31f-45e0-9eab-6e460a02d1f1
+	CacheType: Microsoft.VisualStudio.Services.Client.AccountManagement.AccountManagerAdalCache (9 items)
+	Authentication Target: User
+	
+    devenv.exe Information: 0 : 6/13/2017 2:59:52 PM: 6f45dbed-db87-442f-9833-2f56aec7115a - TokenCache: Looking up cache for a token...
+    devenv.exe Information: 0 : 6/13/2017 2:59:52 PM: 6f45dbed-db87-442f-9833-2f56aec7115a - TokenCache: No matching token was found in the cache
+    devenv.exe Information: 0 : 6/13/2017 2:59:52 PM: 6f45dbed-db87-442f-9833-2f56aec7115a - AcquireTokenSilentHandler: No token matching arguments found in the cache
+    devenv.exe Error: 0 : 6/13/2017 2:59:52 PM: 6f45dbed-db87-442f-9833-2f56aec7115a - <RunAsync>d__0: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalSilentTokenAcquisitionException: Failed to acquire token silently. Call method AcquireToken
+   at Microsoft.IdentityModel.Clients.ActiveDirectory.AcquireTokenSilentHandler.SendTokenRequestAsync()
+   at Microsoft.IdentityModel.Clients.ActiveDirectory.AcquireTokenHandlerBase.<RunAsync>d__0.MoveNext()
+	ErrorCode: failed_to_acquire_token_silently
+    devenv.exe Information: 0 : 6/13/2017 2:59:53 PM: a2b25f0a-ba99-4ab9-9331-e1e52839ba44 - AcquireTokenHandlerBase: === Token Acquisition started:
+	Authority: https://login.microsoftonline.com/f8cdef31-a31e-4b4a-93e4-5f571e91255a/
+	Resource: 499b84ac-1321-427f-aa17-267ca6975798
+	ClientId: 872cd9fa-d31f-45e0-9eab-6e460a02d1f1
+	CacheType: Microsoft.VisualStudio.Services.Client.AccountManagement.AccountManagerAdalCache (9 items)
+	Authentication Target: User
+	
+    devenv.exe Information: 0 : 6/13/2017 2:59:53 PM: a2b25f0a-ba99-4ab9-9331-e1e52839ba44 - TokenCache: Looking up cache for a token...
+    devenv.exe Information: 0 : 6/13/2017 2:59:53 PM: a2b25f0a-ba99-4ab9-9331-e1e52839ba44 - TokenCache: No matching token was found in the cache
+    devenv.exe Information: 0 : 6/13/2017 2:59:53 PM: a2b25f0a-ba99-4ab9-9331-e1e52839ba44 - AcquireTokenSilentHandler: No token matching arguments found in the cache
+    devenv.exe Error: 0 : 6/13/2017 2:59:53 PM: a2b25f0a-ba99-4ab9-9331-e1e52839ba44 - <RunAsync>d__0: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalSilentTokenAcquisitionException: Failed to acquire token silently. Call method AcquireToken
+   at Microsoft.IdentityModel.Clients.ActiveDirectory.AcquireTokenSilentHandler.SendTokenRequestAsync()
+   at Microsoft.IdentityModel.Clients.ActiveDirectory.AcquireTokenHandlerBase.<RunAsync>d__0.MoveNext()
+	ErrorCode: failed_to_acquire_token_silently
+    Web method running: [https://app.vssps.visualstudio.com/_apis/Token/SessionTokens?isPublic=False] (POST)SessionTokens[Token]
+    Web method running: [https://app.vssps.visualstudio.com/_apis/connectionData?connectOptions=None&lastChangeId=241&lastChangeId64=241] (GET)connectionData[connectionData]
+    Web method response: [https://app.vssps.visualstudio.com/_apis/connectionData?connectOptions=None&lastChangeId=241&lastChangeId64=241] (GET)connectionData[connectionData] 80 ms
+    Web method running: [https://app.vsspsext.visualstudio.com/_apis/connectionData?connectOptions=None&lastChangeId=30324&lastChangeId64=30324] (GET)connectionData[connectionData]
+    Web method response: [https://app.vsspsext.visualstudio.com/_apis/connectionData?connectOptions=None&lastChangeId=30324&lastChangeId64=30324] (GET)connectionData[connectionData] 75 ms
+    Web method running: [https://app.vsspsext.visualstudio.com/_apis/Profile/Profiles/me?details=true&withattributes=false&coreattributes=Minimal%2CEmail%2CAvatar%2CDisplayName%2CAll] (GET)me[Profile]
+    Web method response: [https://app.vsspsext.visualstudio.com/_apis/Profile/Profiles/me?details=true&withattributes=false&coreattributes=Minimal%2CEmail%2CAvatar%2CDisplayName%2CAll] (GET)me[Profile] 99 ms
+    Web method running: [https://app.vsspsext.visualstudio.com/_apis/Profile/Locations?profilePageType=Update] (GET)Locations[Profile]
+    Web method response: [https://app.vsspsext.visualstudio.com/_apis/Profile/Locations?profilePageType=Update] (GET)Locations[Profile] 18 ms
+    Web method running: [https://app.vsspsext.visualstudio.com/_apis/Profile/Settings/ProfileRefreshInterval] (GET)ProfileRefreshInterval[Profile]
+    Web method response: [https://app.vsspsext.visualstudio.com/_apis/Profile/Settings/ProfileRefreshInterval] (GET)ProfileRefreshInterval[Profile] 18 ms
+    Web method running: [https://app.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Attributes?partition=VisualStudio.14_PreferredProfile&modifiedafterrevision=531763] (GET)Attributes[Profile]
+    Web method running: [https://app.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Avatar?size=Small] (GET)Avatar[Profile]
+    Web method running: [https://app.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Avatar?size=Large] (GET)Avatar[Profile]
+    Web method response: [https://app.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Avatar?size=Small] (GET)Avatar[Profile] 89 ms
+    Web method response: [https://app.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Avatar?size=Large] (GET)Avatar[Profile] 110 ms
+    Web method response: [https://app.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Attributes?partition=VisualStudio.14_PreferredProfile&modifiedafterrevision=531763] (GET)Attributes[Profile] 127 ms
+s[Profile] 178 ms
+    Web method running: [https://app.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Attributes?partition=VisualStudio.14_PreferredProfile&modifiedafterrevision=531763] (GET)Attributes[Profile]
+    Web method response: [https://app.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Attributes?partition=VisualStudio.14_PreferredProfile&modifiedafterrevision=531763] (GET)Attributes[Profile] 39 ms
+mail%2CAvatar%2CDisplayName%2CAll&modifiedafterrevision=531763] (GET)Attributes[Profile]
+    Web method response: [https://app.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Attributes?partition=VisualStudio.14_PreferredProfile&withcoreattributes=true&coreattributes=Minimal%2CEmail%2CAvatar%2CDisplayName%2CAll&modifiedafterrevision=531763] (GET)Attributes[Profile] 206 ms
+    Failed to check for updates.
+    Failed to check for updates.
+    Failed to check for updates.
+    Failed to check for updates.
+    Failed to check for updates.
+    Failed to check for updates.
+    Failed to check for updates.
+    Web method running: [https://app.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Attributes?partition=VisualStudio.14_PreferredProfile&withcoreattributes=true&coreattributes=Minimal%2CEmail%2CAvatar%2CDisplayName%2CAll&modifiedafterrevision=531763] (GET)Attributes[Profile]
+    Web method response: [https://app.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Attributes?partition=VisualStudio.14_PreferredProfile&withcoreattributes=true&coreattributes=Minimal%2CEmail%2CAvatar%2CDisplayName%2CAll&modifiedafterrevision=531763] (GET)Attributes[Profile] 889 ms
+    Failed to check for updates.

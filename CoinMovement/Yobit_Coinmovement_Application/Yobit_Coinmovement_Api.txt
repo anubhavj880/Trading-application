@@ -1,0 +1,114 @@
+key: D3A1DB0C2FDC88620DA91146E656E9AB
+secret: d63209475485afb2b1fc9001dd871b5f
+
+withdrawal fee:  0.00050000btc
+
+
+=============================================================
+https://yobit.net/tapi/
+Each Trade API request should pass authentication.
+Authentication is fulfilled by sending the following HTTP-titles:
+
+Key - API-key, example: FAF816D16FFDFBD1D46EEF5D5B10D8A2
+Sign - digital signature, POST-parameters (?param0=val0 & ...& nonce=1) signed by secret key through HMAC-SHA512
+
+Parameter nonce (1 minimum to 2147483646 maximum) in succeeding request should exceed that in the previous one.
+To null nonce it is necessary to generate new key.
+=============================================================
+Get Info:
+=============================================================
+Method returns information about user's balances and priviledges of API-key as well as server time.
+
+Requirements: priviledge of key info
+Parameters are absent
+
+Example of response:
+
+{
+	"success":1,
+	"return":{
+		"funds":{
+			"ltc":22,
+			"nvc":423.998,
+			"ppc":10,
+			...
+		},
+		"funds_incl_orders":{
+			"ltc":32,
+			"nvc":523.998,
+			"ppc":20,
+			...
+		},		
+		"rights":{
+			"info":1,
+			"trade":0,
+			"withdraw":0
+		},
+		"transaction_count":0,
+		"open_orders":1,
+		"server_time":1418654530
+	}
+}
+
+
+
+funds: available account balance (does not include money on open orders)
+funds_incl_orders: available account balance (include money on open orders)
+rights: priviledges of key. withdraw is not used (reserved)
+transaction_count: always 0 (outdated)
+open_orders: always 0 (outdated)
+server_time: server time
+
+======================================================================================================
+GetDepositAddress:
+================================================
+Method returns deposit address.
+
+Requirements: priviledges of key deposits
+
+Parameters:
+coinName: ticker (example: BTC)
+need_new: value: 0 or 1, on default: 0
+
+
+Example of response:
+{
+	"success":1,
+	"return":{
+		"address": 1UHAnAWvxDB9XXETsi7z483zRRBmcUZxb3,
+		"processed_amount": 1.00000000,		
+		"server_time": 1437146228
+	}
+}
+=========================================================================================================
+WithdrawCoinsToAddress
+================================================
+Method creates withdrawal request.
+Requirements: priviledges of key withdrawals
+
+Parameters:
+coinName: ticker (example: BTC)
+amount: amount to withdraw
+address: destination address
+
+Example of response:
+{
+	"success":1,
+	"return":{
+		"server_time": 1437146228
+	}
+}
+==========================================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+

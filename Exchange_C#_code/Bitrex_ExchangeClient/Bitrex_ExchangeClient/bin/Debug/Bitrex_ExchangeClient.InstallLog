@@ -1,0 +1,13 @@
+﻿Installing assembly 'F:\Exchange_C#_code\Bitrex_ExchangeClient\Bitrex_ExchangeClient\bin\Debug\Bitrex_ExchangeClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Exchange_C#_code\Bitrex_ExchangeClient\Bitrex_ExchangeClient\bin\Debug\Bitrex_ExchangeClient.InstallLog
+   assemblypath = F:\Exchange_C#_code\Bitrex_ExchangeClient\Bitrex_ExchangeClient\bin\Debug\Bitrex_ExchangeClient.exe
+Installing service Bittrex_ExchangeClient...
+Service Bittrex_ExchangeClient has been successfully installed.
+Creating EventLog source Bittrex_ExchangeClient in log Application...
+Committing assembly 'F:\Exchange_C#_code\Bitrex_ExchangeClient\Bitrex_ExchangeClient\bin\Debug\Bitrex_ExchangeClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Exchange_C#_code\Bitrex_ExchangeClient\Bitrex_ExchangeClient\bin\Debug\Bitrex_ExchangeClient.InstallLog
+   assemblypath = F:\Exchange_C#_code\Bitrex_ExchangeClient\Bitrex_ExchangeClient\bin\Debug\Bitrex_ExchangeClient.exe

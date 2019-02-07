@@ -1,0 +1,13 @@
+﻿Installing assembly 'F:\Exchange_C#_code\Livecoin_ExchangeConnection_Client\Livecoin_ExchangeConnection_Client\bin\Debug\Livecoin_ExchangeConnection_Client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Exchange_C#_code\Livecoin_ExchangeConnection_Client\Livecoin_ExchangeConnection_Client\bin\Debug\Livecoin_ExchangeConnection_Client.InstallLog
+   assemblypath = F:\Exchange_C#_code\Livecoin_ExchangeConnection_Client\Livecoin_ExchangeConnection_Client\bin\Debug\Livecoin_ExchangeConnection_Client.exe
+Installing service Livecoin_ExchangeConnection_Client...
+Service Livecoin_ExchangeConnection_Client has been successfully installed.
+Creating EventLog source Livecoin_ExchangeConnection_Client in log Application...
+Committing assembly 'F:\Exchange_C#_code\Livecoin_ExchangeConnection_Client\Livecoin_ExchangeConnection_Client\bin\Debug\Livecoin_ExchangeConnection_Client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Exchange_C#_code\Livecoin_ExchangeConnection_Client\Livecoin_ExchangeConnection_Client\bin\Debug\Livecoin_ExchangeConnection_Client.InstallLog
+   assemblypath = F:\Exchange_C#_code\Livecoin_ExchangeConnection_Client\Livecoin_ExchangeConnection_Client\bin\Debug\Livecoin_ExchangeConnection_Client.exe

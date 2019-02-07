@@ -1,0 +1,13 @@
+﻿Installing assembly 'F:\Exchange_C#_code\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\Gemini_ExchangeClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Exchange_C#_code\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\Gemini_ExchangeClient.InstallLog
+   assemblypath = F:\Exchange_C#_code\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\Gemini_ExchangeClient.exe
+Installing service Gemini_ExchangeClient...
+Service Gemini_ExchangeClient has been successfully installed.
+Creating EventLog source Gemini_ExchangeClient in log Application...
+Committing assembly 'F:\Exchange_C#_code\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\Gemini_ExchangeClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Exchange_C#_code\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\Gemini_ExchangeClient.InstallLog
+   assemblypath = F:\Exchange_C#_code\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\Gemini_ExchangeClient.exe

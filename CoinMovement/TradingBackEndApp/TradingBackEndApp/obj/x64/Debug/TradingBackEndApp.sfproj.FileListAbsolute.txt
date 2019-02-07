@@ -1,0 +1,1 @@
+C:\Users\bizruntime39\Documents\Visual Studio 2015\TradingBackEndApp\TradingBackEndApp\obj\x64\Debug\TradingBackEndApp.sfprojResolveAssemblyReference.cache

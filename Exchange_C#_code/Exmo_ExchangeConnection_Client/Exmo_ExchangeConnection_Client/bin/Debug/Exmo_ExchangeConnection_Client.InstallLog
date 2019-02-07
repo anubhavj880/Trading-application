@@ -1,0 +1,13 @@
+﻿Installing assembly 'F:\Exchange_C#_code\Exmo_ExchangeConnection_Client\Exmo_ExchangeConnection_Client\bin\Debug\Exmo_ExchangeConnection_Client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Exchange_C#_code\Exmo_ExchangeConnection_Client\Exmo_ExchangeConnection_Client\bin\Debug\Exmo_ExchangeConnection_Client.InstallLog
+   assemblypath = F:\Exchange_C#_code\Exmo_ExchangeConnection_Client\Exmo_ExchangeConnection_Client\bin\Debug\Exmo_ExchangeConnection_Client.exe
+Installing service Exmo_ExchangeConnection_Client...
+Service Exmo_ExchangeConnection_Client has been successfully installed.
+Creating EventLog source Exmo_ExchangeConnection_Client in log Application...
+Committing assembly 'F:\Exchange_C#_code\Exmo_ExchangeConnection_Client\Exmo_ExchangeConnection_Client\bin\Debug\Exmo_ExchangeConnection_Client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Exchange_C#_code\Exmo_ExchangeConnection_Client\Exmo_ExchangeConnection_Client\bin\Debug\Exmo_ExchangeConnection_Client.InstallLog
+   assemblypath = F:\Exchange_C#_code\Exmo_ExchangeConnection_Client\Exmo_ExchangeConnection_Client\bin\Debug\Exmo_ExchangeConnection_Client.exe

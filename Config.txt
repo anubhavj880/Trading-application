@@ -1,0 +1,86 @@
+Windows VM
+==========
+Client Program is running
+Ram-7GB
+Disk-140GB
+52.172.34.113
+Guy Status Go account
+
+Kafka Cluster
+=============
+
+Zookeeper
+13.71.124.157
+RAM-1.75GB
+Broker1
+13.71.120.139
+RAM-1.75GB
+Broker2
+13.71.116.17
+RAM-1.75GB
+
+Sanat status Go account
+
+
+Flink cluster
+==============
+
+Server 61
+Flink-master-192.168.1.90
+RAM-7GB
+Disk-50GB
+Flink-Slave1-192.168.1.56
+RAM-8GB
+Disk-50GB
+
+Server 68
+Flink-Slave2-192.168.1.47
+RAM-8GB
+Disk-30GB
+
+Spark Cluster
+==============
+
+Server 63
+Spark-master-192.168.1.38
+RAM-7GB
+Disk-30GB
+Spark-Slave1-192.168.1.76
+RAM-8GB
+Disk-30GB
+
+Server 62
+Spark-Slave2-192.168.1.70
+RAM-8GB
+Disk-30GB
+
+ES Cluster
+==========
+
+Server 62
+ES node1-192.168.1.55
+RAM-3GB
+Disk-200GB
+
+And 
+
+Kibana is also running on this
+
+Server 63
+Es node2-192.168.1.78
+RAM-3GB
+Disk-200GB
+
+
+
+
+
+
+Accounting Info
+===============
+
+Sanat Account - 2240.42INR
+Guy Account - Pay as you go Subscription
+Vikas Account - disabled
+Ajit Account - disabled
+

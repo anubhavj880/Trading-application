@@ -1,0 +1,218 @@
+=================================================
+Trading Balance:
+=================================================
+
+Summary: returns trading balance.
+
+ http://api.hitbtc.com/api/1/trading/balance
+ 
+ Request: GET /api/1/trading/balance
+ 
+ Parameters: no parameters
+ 
+ Example response:
+
+{"balance": [
+  {"currency_code": "BTC","cash": 0.045457701,"reserved": 0.01},
+  {"currency_code": "EUR","cash": 0.0445544,"reserved": 0},
+  {"currency_code": "LTC","cash": 0.7,"reserved": 0.1},
+  {"currency_code": "USD","cash": 2.9415029,"reserved": 1.001}
+]}
+*********************************************************************************************************************************************
+=================================================
+Payment Balance:
+=================================================
+Summary: returns multi-currency balance of the main account.
+
+http://api.hitbtc.com/api/1/payment/balance
+
+Request: GET /api/1/payment/balance
+
+Parameters: no parameters
+
+Example response:
+
+{
+  "balance": [
+  {
+    "currency_code": "USD",
+    "balance": 13.12
+  },
+  {
+    "currency_code": "EUR",
+    "balance": 0
+  },
+  {
+    "currency_code": "LTC",
+    "balance": 1.07
+  }, 
+  {"currency_code": "BTC", 
+  "balance": 11.9
+  }
+]}
+*********************************************************************************************************************************************
+=================================================
+Transfer to trading and Main Account:
+=================================================
+Summary: transfers funds between main and trading accounts; returns a transaction ID or an error.
+
+http://api.hitbtc.com/api/1/payment/transfer_to_trading 
+
+http://api.hitbtc.com/api/1/payment/transfer_to_main
+
+Parameters:
+
+Parameter			Required			Type			Description
+amount				Yes					decimal			Funds amount to transfer
+currency_code		Yes					string			Currency symbol, e.g. BTC
+
+Example responses:
+
+{"message": "Balance not enough", "statusCode": 409, "body": "Balance not enough"}
+
+{"transaction": "52976-103925-18443984"}
+
+*********************************************************************************************************************************************
+=================================================
+Last created  cryptocurrency address:
+=================================================
+
+Summary: returns the last created incoming cryptocurrency address that can be used to deposit cryptocurrency to your account.
+
+
+http://api.hitbtc.com/api/1/payment/address/ (GET)
+
+Request: GET /api/1/payment/address/:currency
+
+Parameters: no parameters
+
+Example: GET /api/1/payment/address/BTC
+
+Example response:
+
+{"address":"1HDtDgG9HYpp1YJ6kFYSB6NgaG2haKnxUH"}
+
+*********************************************************************************************************************************************
+=================================================
+creates   cryptocurrency address:
+=================================================
+Summary: creates an address that can be used to deposit cryptocurrency to your account; returns a new cryptocurrency address.
+
+http://api.hitbtc.com/api/1/payment/address/ (POST)
+
+Request: POST /api/1/payment/address/:currency
+
+Parameters: no parameters
+
+Example: POST /api/1/payment/address/BTC
+
+Example response:
+
+{"address":"1HDtDgG9HYpp1YJ6kFYSB6NgaG2haKnxUH"}
+
+*********************************************************************************************************************************************
+=================================================
+withdraws :
+=================================================
+
+Summary: withdraws money and creates an outgoing crypotocurrency transaction; returns a transaction ID on the exchange or an error.
+
+http://api.hitbtc.com/api/1/payment/payout
+
+Request: POST /api/1/payment/payout
+
+Parameters:
+
+Parameter			Required			Type			Description
+amount				Yes					decimal			Funds amount to withdraw
+currency_code		Yes					string			Currency symbol, e.g. BTC
+address				Yes					string			BTC/LTC address to withdraw to
+extra_id			No					string			payment id for cryptonote
+recommended_fee		No					boolean			use recommended network fee instead of flat, e.g. 0 or 1
+
+Example: amount=0.001&currency_code=BTC&address=1LuWvENyuPNHsHWjDgU1QYKWUYN9xxy7n5
+
+Example response:
+
+{"transaction": "51545-103004-18442681"}
+
+*********************************************************************************************************************************************
+=================================================
+List of payment Transactions :
+=================================================
+
+Summary: returns a list of payment transactions and their statuses (array of transactions).
+
+http://api.hitbtc.com/api/1/payment/transactions
+
+Request: GET /api/1/payment/transactions
+
+Parameters:
+
+Parameter			Required			Type			Description
+offset				No					integer			Start index for the query, default = 0
+limit				Yes					integer			Maximum results for the query
+dir					No					ask or desc		Transactions are sorted ascending or descending (default)
+
+Example response:
+
+{"transactions": [
+  {
+    "id": "49720-104765-18440728",
+    "type": "payin",
+    "status": "pending",
+    "created": 1397056648,
+    "finished": 1397056646,
+    "amount_from": 0.001,
+    "currency_code_from": "BTC",
+    "amount_to": 0.001,
+    "currency_code_to": "BTC",
+    "destination_data": null,
+    "commission_percent": 0,
+    "bitcoin_address": "1KnVXD1Wc1wZbTHiB1TDgMcnSRi2PnMHAV",
+    "bitcoin_return_address": "1QBuhFksjoWTQWJKWUPyQ37wsQohLAhJvK"
+    "external_data": "0b2ac379986cd1872b6a4115ad7a6cf436bdac67080db728579b8282c129a549"
+  }
+]}
+
+*********************************************************************************************************************************************
+=================================================
+ payment Transactions By Id:
+=================================================
+
+Summary: returns payment transaction and its status.
+
+http://api.hitbtc.com/api/1/payment/transactions/:id
+
+Request: GET /api/1/payment/transactions/89229-171-97181
+
+Parameters:
+
+Parameter		Required		Type		Description
+id				Yes				string		Transaction Id
+
+Example response:
+
+{
+  "transaction": {
+    "id": "89229-171-97181",
+    "type": "payin",
+    "status": "finished",
+    "created": 1438768402,
+    "finished": 1438768943,
+    "amount_from": 1000,
+    "currency_code_from": "BCN",
+    "amount_to": 1000,
+    "currency_code_to": "BCN",
+    "destination_data": "b744ab8c87d83b6469770926cb5388e3f389f067730af7f506d1f08cbef46d86",
+    "commission_percent": 0,
+    "bitcoin_address": null,
+    "bitcoin_return_address": null,
+    "external_data": "3b598fd882902d8be14bd72d2b31f692f34700bf133e62c442d487911465b72e"
+  }
+}
+
+*********************************************************************************************************************************************
+=================================================
+ payment Transactions By Id:
+=================================================

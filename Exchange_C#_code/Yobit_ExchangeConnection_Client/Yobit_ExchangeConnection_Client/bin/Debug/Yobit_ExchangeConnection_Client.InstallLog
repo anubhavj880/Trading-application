@@ -1,0 +1,13 @@
+﻿Installing assembly 'F:\Exchange_C#_code\Yobit_ExchangeConnection_Client\Yobit_ExchangeConnection_Client\bin\Debug\Yobit_ExchangeConnection_Client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Exchange_C#_code\Yobit_ExchangeConnection_Client\Yobit_ExchangeConnection_Client\bin\Debug\Yobit_ExchangeConnection_Client.InstallLog
+   assemblypath = F:\Exchange_C#_code\Yobit_ExchangeConnection_Client\Yobit_ExchangeConnection_Client\bin\Debug\Yobit_ExchangeConnection_Client.exe
+Installing service Yobit_ExchangeConnection_Client...
+Service Yobit_ExchangeConnection_Client has been successfully installed.
+Creating EventLog source Yobit_ExchangeConnection_Client in log Application...
+Committing assembly 'F:\Exchange_C#_code\Yobit_ExchangeConnection_Client\Yobit_ExchangeConnection_Client\bin\Debug\Yobit_ExchangeConnection_Client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Exchange_C#_code\Yobit_ExchangeConnection_Client\Yobit_ExchangeConnection_Client\bin\Debug\Yobit_ExchangeConnection_Client.InstallLog
+   assemblypath = F:\Exchange_C#_code\Yobit_ExchangeConnection_Client\Yobit_ExchangeConnection_Client\bin\Debug\Yobit_ExchangeConnection_Client.exe

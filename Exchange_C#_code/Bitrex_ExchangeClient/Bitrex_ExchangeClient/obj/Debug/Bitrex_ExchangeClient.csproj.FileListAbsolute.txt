@@ -1,0 +1,1 @@
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Bitrex_ExchangeClient\Bitrex_ExchangeClient\bin\Debug\Bitrex_ExchangeClient.exe.config

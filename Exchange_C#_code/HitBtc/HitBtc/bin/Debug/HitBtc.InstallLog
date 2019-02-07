@@ -1,0 +1,13 @@
+﻿Installing assembly 'F:\Exchange_C#_code\HitBtc\HitBtc\bin\Debug\HitBtc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Exchange_C#_code\HitBtc\HitBtc\bin\Debug\HitBtc.InstallLog
+   assemblypath = F:\Exchange_C#_code\HitBtc\HitBtc\bin\Debug\HitBtc.exe
+Installing service HitBtc...
+Service HitBtc has been successfully installed.
+Creating EventLog source HitBtc in log Application...
+Committing assembly 'F:\Exchange_C#_code\HitBtc\HitBtc\bin\Debug\HitBtc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Exchange_C#_code\HitBtc\HitBtc\bin\Debug\HitBtc.InstallLog
+   assemblypath = F:\Exchange_C#_code\HitBtc\HitBtc\bin\Debug\HitBtc.exe

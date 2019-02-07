@@ -1,0 +1,24 @@
+F:\TradingProject\Alpha Ai App\CoinMovement\Bitfinex\Bitfinex\bin\Debug\Bitfinex.exe.config
+F:\TradingProject\Alpha Ai App\CoinMovement\Bitfinex\Bitfinex\bin\Debug\Bitfinex.exe
+F:\TradingProject\Alpha Ai App\CoinMovement\Bitfinex\Bitfinex\bin\Debug\Bitfinex.pdb
+F:\TradingProject\Alpha Ai App\CoinMovement\Bitfinex\Bitfinex\bin\Debug\log4net.dll
+F:\TradingProject\Alpha Ai App\CoinMovement\Bitfinex\Bitfinex\bin\Debug\Newtonsoft.Json.dll
+F:\TradingProject\Alpha Ai App\CoinMovement\Bitfinex\Bitfinex\bin\Debug\RestSharp.dll
+F:\TradingProject\Alpha Ai App\CoinMovement\Bitfinex\Bitfinex\bin\Debug\log4net.xml
+F:\TradingProject\Alpha Ai App\CoinMovement\Bitfinex\Bitfinex\bin\Debug\Newtonsoft.Json.xml
+F:\TradingProject\Alpha Ai App\CoinMovement\Bitfinex\Bitfinex\bin\Debug\RestSharp.xml
+F:\TradingProject\Alpha Ai App\CoinMovement\Bitfinex\Bitfinex\obj\Debug\Bitfinex.exe
+F:\TradingProject\Alpha Ai App\CoinMovement\Bitfinex\Bitfinex\obj\Debug\Bitfinex.pdb
+F:\TradingProject\Alpha Ai App\CoinMovement\Bitfinex\Bitfinex\obj\Debug\Bitfinex.csprojResolveAssemblyReference.cache
+F:\TradingProject\Alpha_Ai_App\CoinMovement\Bitfinex\Bitfinex\bin\Debug\Bitfinex.exe.config
+F:\TradingProject\Alpha_Ai_App\CoinMovement\Bitfinex\Bitfinex\obj\Debug\Bitfinex.exe
+F:\TradingProject\Alpha_Ai_App\CoinMovement\Bitfinex\Bitfinex\obj\Debug\Bitfinex.pdb
+F:\TradingProject\Alpha_Ai_App\CoinMovement\Bitfinex\Bitfinex\bin\Debug\Bitfinex.exe
+F:\TradingProject\Alpha_Ai_App\CoinMovement\Bitfinex\Bitfinex\bin\Debug\Bitfinex.pdb
+F:\TradingProject\Alpha_Ai_App\CoinMovement\Bitfinex\Bitfinex\bin\Debug\log4net.dll
+F:\TradingProject\Alpha_Ai_App\CoinMovement\Bitfinex\Bitfinex\bin\Debug\Newtonsoft.Json.dll
+F:\TradingProject\Alpha_Ai_App\CoinMovement\Bitfinex\Bitfinex\bin\Debug\RestSharp.dll
+F:\TradingProject\Alpha_Ai_App\CoinMovement\Bitfinex\Bitfinex\bin\Debug\log4net.xml
+F:\TradingProject\Alpha_Ai_App\CoinMovement\Bitfinex\Bitfinex\bin\Debug\Newtonsoft.Json.xml
+F:\TradingProject\Alpha_Ai_App\CoinMovement\Bitfinex\Bitfinex\bin\Debug\RestSharp.xml
+F:\TradingProject\Alpha_Ai_App\CoinMovement\Bitfinex\Bitfinex\obj\Debug\Bitfinex.csprojResolveAssemblyReference.cache

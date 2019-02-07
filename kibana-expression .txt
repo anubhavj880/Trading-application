@@ -1,0 +1,56 @@
+DSHBTC:-  BITFINEX,BTCE,EXMO,HITBTC,KRAKEN,LIQUI,LIVECOIN,POLONIEX,YOBIT
+
+LTCBTC:-  BITFINEX,POLONIEX,YOBIT,THEROCK,LIQUI,LIVECOIN,KRAKEN,BTCE,EXMO,COINBASE,BTCE
+
+XMRBTC:- BITFINEX,LIVECOIN,POLONIEX,HITBTC,KRAKEN,
+
+XRPBTC:- BITSTAMP,KRAKEN,POLONIEX,THEROCK
+
+ETHBTC:- BITFINEX,POLONIEX,YOBIT,THEROCK,LIQUI,LIVECOIN,KRAKEN,BTCE,EXMO,COINBASE,BTCE,HITBTC
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+All the 12 graph Ask/Bid Expression:-
+
+Bitfinex:
+
+(.es(index=bestbidask*,timefield='BestBid.MachineTime',q='BestBid.ExchangeName:BITFINEX AND BestBid.CurrencyPair:ETHBTC AND BestBid.OrderSide:bids',metric='max:BestBid.Price')).precision(8).label(bids),
+(.es(index=bestbidask*,timefield='BestAsk.MachineTime',q='BestAsk.ExchangeName:BITFINEX AND BestAsk.CurrencyPair:ETHBTC AND BestAsk.OrderSide:asks',metric='max:BestAsk.Price')).precision(8).label(asks)
+
+
+Bittrex:
+
+(.es(index=bestbidask*,timefield='BestBid.MachineTime',q='BestBid.ExchangeName:BITTREX AND BestBid.CurrencyPair:ETHBTC AND BestBid.OrderSide:bids',metric='max:BestBid.Price')).precision(8).label(bids),
+(.es(index=bestbidask*,timefield='BestAsk.MachineTime',q='BestAsk.ExchangeName:BITTREX AND BestAsk.CurrencyPair:ETHBTC AND BestAsk.OrderSide:asks',metric='max:BestAsk.Price')).precision(8).label(asks)
+
+
+Bittrex:
+
+(.es(index=bestbidask*,timefield='BestBid.MachineTime',q='BestBid.ExchangeName:CEXIO AND BestBid.CurrencyPair:ETHBTC AND BestBid.OrderSide:bids',metric='max:BestBid.Price')).precision(8).label(bids),
+(.es(index=bestbidask*,timefield='BestAsk.MachineTime',q='BestAsk.ExchangeName:CEXIO AND BestAsk.CurrencyPair:ETHBTC AND BestAsk.OrderSide:asks',metric='max:BestAsk.Price')).precision(8).label(asks)
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Mid-POint Query:-(Change Based on graph)
+
+(.es(index=midpoint*,timefield=MidPoint.MachineTime,split=MidPoint.ExchangeName:15,q='MidPoint.CurrencyPair:ETHBTC',metric=max:MidPoint.MidPointData).precision(8).label(ETHBTC_MIDPOINT))
+
+((.es(index=midpoint*,timefield=MidPoint.MachineTime,split=MidPoint.ExchangeName:15,q='MidPoint.CurrencyPair:ETHBTC',metric=max:MidPoint.MidPointData).precision(8)).plus(.es(index=exchange*,timefield=MachineTime,q='CurrencyPair:ETHBTC',metric=avg:AskPrice).precision(6))).label(midpoint,ExchangeName).divide(divisor=2).legend(ne)
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+First-Graph(Quotes vs Time):-
+
+.es(index=exchange*,timefield=MachineTime,split='ExchangeName:15',q='CurrencyPair:ETHBTC OR OrderId:>0',metric='count').bars(4)
+###############################################################################################################################################################
+
+Delete the index in elasticsearch:-
+curl -XDELETE '192.168.1.157:9200/twitter?pretty'
+
+Search index in elasticsearch:-
+curl '192.168.1.157:9200/_cat/indices?v'
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+https://www.elastic.co/guide/en/kibana/current/index.html
+https://www.timroes.de/2015/02/07/kibana-4-tutorial-part-3-visualize/
+https://logz.io/blog/kibana-timelion-time-series-analysis/
+https://rmoff.net/2016/03/29/experiments-with-kibana-timelion-2/
+https://www.elastic.co/blog/timelion-timeline
+https://github.com/elastic/timelion/blob/master/FUNCTIONS.md

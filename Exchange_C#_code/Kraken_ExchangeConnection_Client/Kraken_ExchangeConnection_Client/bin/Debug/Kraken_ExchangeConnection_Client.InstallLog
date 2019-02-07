@@ -1,0 +1,13 @@
+﻿Installing assembly 'F:\Exchange_C#_code\Kraken_ExchangeConnection_Client\Kraken_ExchangeConnection_Client\bin\Debug\Kraken_ExchangeConnection_Client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Exchange_C#_code\Kraken_ExchangeConnection_Client\Kraken_ExchangeConnection_Client\bin\Debug\Kraken_ExchangeConnection_Client.InstallLog
+   assemblypath = F:\Exchange_C#_code\Kraken_ExchangeConnection_Client\Kraken_ExchangeConnection_Client\bin\Debug\Kraken_ExchangeConnection_Client.exe
+Installing service Kraken_ExchangeConnection_Client...
+Service Kraken_ExchangeConnection_Client has been successfully installed.
+Creating EventLog source Kraken_ExchangeConnection_Client in log Application...
+Committing assembly 'F:\Exchange_C#_code\Kraken_ExchangeConnection_Client\Kraken_ExchangeConnection_Client\bin\Debug\Kraken_ExchangeConnection_Client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Exchange_C#_code\Kraken_ExchangeConnection_Client\Kraken_ExchangeConnection_Client\bin\Debug\Kraken_ExchangeConnection_Client.InstallLog
+   assemblypath = F:\Exchange_C#_code\Kraken_ExchangeConnection_Client\Kraken_ExchangeConnection_Client\bin\Debug\Kraken_ExchangeConnection_Client.exe

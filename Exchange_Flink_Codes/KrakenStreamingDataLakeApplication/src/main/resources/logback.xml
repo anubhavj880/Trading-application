@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration debug="false" scan="false">
+	<statusListener class="ch.qos.logback.core.status.NopStatusListener" />
+<!-- 	<property name="DEV_HOME" value="F:\\eclipseNeon3workspace\\KrakenStreamingApplication\\src\\resources\\java" /> -->
+	<property name="DEV_HOME" value="/home/bizruntime/log/KrakenADL/log.txt" />
+	
+	<!-- To show the log in console -->
+	<appender name="OUT" class="ch.qos.logback.core.ConsoleAppender">
+		<prudent>true</prudent>
+		<encoder>
+			<Pattern>
+				%d{HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n
+			</Pattern>
+		</encoder>
+	</appender>
+	<!-- To show the log in File -->
+	<appender name="FILE-AUDIT"
+		class="ch.qos.logback.core.rolling.RollingFileAppender">
+		<file>${DEV_HOME}\\log.txt</file>
+		<encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+			<Pattern>
+				%d{yyyy-MM-dd HH:mm:ss} - %msg%n
+			</Pattern>
+		</encoder>
+
+		<rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+			<!-- rollover daily -->
+			<fileNamePattern>${DEV_HOME}/archived/debug.%d{yyyy-MM-dd}.%i.log
+			</fileNamePattern>
+			<timeBasedFileNamingAndTriggeringPolicy
+				class="ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP">
+				<maxFileSize>10MB</maxFileSize>
+			</timeBasedFileNamingAndTriggeringPolicy>
+		</rollingPolicy>
+
+	</appender>
+
+
+
+
+	<!-- DEBUG Config -->
+	<logger name="logs_debug" level="DEBUG" additivity="false">
+		<appender-ref ref="OUT" />
+		<appender-ref ref="FILE-AUDIT" />
+	</logger>
+
+	<!-- INFO Config -->
+	<logger name="logs_info" level="INFO" additivity="false">
+		<appender-ref ref="OUT" />
+		<appender-ref ref="FILE-AUDIT" />
+	</logger>
+
+	<!-- ERROR Config -->
+	<logger name="logs_error" level="ERROR" additivity="false">
+		<appender-ref ref="OUT" />
+		<appender-ref ref="FILE-AUDIT" />
+	</logger>
+
+	<!-- To make the Logback ASYNC -->
+	<appender name="ASYNC" class="ch.qos.logback.classic.AsyncAppender">
+		<includeCallerData>true</includeCallerData>
+		<queueSize>500</queueSize>
+		<discardingThreshold>2</discardingThreshold>
+		<appender-ref ref="OUT" />
+		<appender-ref ref="FILE-AUDIT" />
+	</appender>
+
+	<!-- root Logback -->
+	<root level="INFO">
+		<appender-ref ref="ASYNC" />
+	</root>
+</configuration>

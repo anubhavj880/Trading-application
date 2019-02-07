@@ -1,0 +1,244 @@
+C:\Users\trade\Desktop\ExchangeConnection_App\HitBtc\HitBtc\bin\Debug\HitBtc.exe.config
+C:\Users\trade\Desktop\ExchangeConnection_App\HitBtc\HitBtc\bin\Debug\HitBtc.exe
+C:\Users\trade\Desktop\ExchangeConnection_App\HitBtc\HitBtc\bin\Debug\HitBtc.pdb
+C:\Users\trade\Desktop\ExchangeConnection_App\HitBtc\HitBtc\bin\Debug\kafka-net.dll
+C:\Users\trade\Desktop\ExchangeConnection_App\HitBtc\HitBtc\bin\Debug\log4net.dll
+C:\Users\trade\Desktop\ExchangeConnection_App\HitBtc\HitBtc\bin\Debug\Newtonsoft.Json.dll
+C:\Users\trade\Desktop\ExchangeConnection_App\HitBtc\HitBtc\bin\Debug\websocket-sharp.dll
+C:\Users\trade\Desktop\ExchangeConnection_App\HitBtc\HitBtc\bin\Debug\log4net.xml
+C:\Users\trade\Desktop\ExchangeConnection_App\HitBtc\HitBtc\bin\Debug\Newtonsoft.Json.xml
+C:\Users\trade\Desktop\ExchangeConnection_App\HitBtc\HitBtc\bin\Debug\websocket-sharp.xml
+C:\Users\trade\Desktop\ExchangeConnection_App\HitBtc\HitBtc\obj\Debug\HitBtc.csprojResolveAssemblyReference.cache
+C:\Users\trade\Desktop\ExchangeConnection_App\HitBtc\HitBtc\obj\Debug\HitBtc.exe
+C:\Users\trade\Desktop\ExchangeConnection_App\HitBtc\HitBtc\obj\Debug\HitBtc.pdb
+F:\TradingProject\Exchange_Connection_Codes\HitBtc\HitBtc\bin\Debug\HitBtc.exe.config
+F:\TradingProject\Exchange_Connection_Codes\HitBtc\HitBtc\bin\Debug\HitBtc.exe
+F:\TradingProject\Exchange_Connection_Codes\HitBtc\HitBtc\bin\Debug\HitBtc.pdb
+F:\TradingProject\Exchange_Connection_Codes\HitBtc\HitBtc\bin\Debug\kafka-net.dll
+F:\TradingProject\Exchange_Connection_Codes\HitBtc\HitBtc\bin\Debug\log4net.dll
+F:\TradingProject\Exchange_Connection_Codes\HitBtc\HitBtc\bin\Debug\Newtonsoft.Json.dll
+F:\TradingProject\Exchange_Connection_Codes\HitBtc\HitBtc\bin\Debug\websocket-sharp.dll
+F:\TradingProject\Exchange_Connection_Codes\HitBtc\HitBtc\bin\Debug\log4net.xml
+F:\TradingProject\Exchange_Connection_Codes\HitBtc\HitBtc\bin\Debug\Newtonsoft.Json.xml
+F:\TradingProject\Exchange_Connection_Codes\HitBtc\HitBtc\bin\Debug\websocket-sharp.xml
+F:\TradingProject\Exchange_Connection_Codes\HitBtc\HitBtc\obj\Debug\HitBtc.csprojResolveAssemblyReference.cache
+F:\TradingProject\Exchange_Connection_Codes\HitBtc\HitBtc\obj\Debug\HitBtc.exe
+F:\TradingProject\Exchange_Connection_Codes\HitBtc\HitBtc\obj\Debug\HitBtc.pdb
+F:\TradingProject\Exchange_Connection_Codes\HitBtc\HitBtc\bin\Debug\WebSocket4Net.dll
+F:\TradingProject\Exchange_Connection_Codes\CodeWithTimer\HitBtc\HitBtc\bin\Debug\HitBtc.exe.config
+F:\TradingProject\Exchange_Connection_Codes\CodeWithTimer\HitBtc\HitBtc\obj\Debug\HitBtc.exe
+F:\TradingProject\Exchange_Connection_Codes\CodeWithTimer\HitBtc\HitBtc\obj\Debug\HitBtc.pdb
+F:\TradingProject\Exchange_Connection_Codes\CodeWithTimer\HitBtc\HitBtc\bin\Debug\HitBtc.exe
+F:\TradingProject\Exchange_Connection_Codes\CodeWithTimer\HitBtc\HitBtc\bin\Debug\HitBtc.pdb
+F:\TradingProject\Exchange_Connection_Codes\CodeWithTimer\HitBtc\HitBtc\bin\Debug\kafka-net.dll
+F:\TradingProject\Exchange_Connection_Codes\CodeWithTimer\HitBtc\HitBtc\bin\Debug\log4net.dll
+F:\TradingProject\Exchange_Connection_Codes\CodeWithTimer\HitBtc\HitBtc\bin\Debug\Newtonsoft.Json.dll
+F:\TradingProject\Exchange_Connection_Codes\CodeWithTimer\HitBtc\HitBtc\bin\Debug\websocket-sharp.dll
+F:\TradingProject\Exchange_Connection_Codes\CodeWithTimer\HitBtc\HitBtc\bin\Debug\WebSocket4Net.dll
+F:\TradingProject\Exchange_Connection_Codes\CodeWithTimer\HitBtc\HitBtc\bin\Debug\log4net.xml
+F:\TradingProject\Exchange_Connection_Codes\CodeWithTimer\HitBtc\HitBtc\bin\Debug\Newtonsoft.Json.xml
+F:\TradingProject\Exchange_Connection_Codes\CodeWithTimer\HitBtc\HitBtc\bin\Debug\websocket-sharp.xml
+F:\TradingProject\Exchange_Connection_Codes\CodeWithTimer\HitBtc\HitBtc\obj\Debug\HitBtc.csprojResolveAssemblyReference.cache
+C:\Users\trade\Desktop\Exchange_Client\HitBtc\HitBtc\bin\Debug\HitBtc.exe.config
+C:\Users\trade\Desktop\Exchange_Client\HitBtc\HitBtc\obj\Debug\HitBtc.exe
+C:\Users\trade\Desktop\Exchange_Client\HitBtc\HitBtc\obj\Debug\HitBtc.pdb
+C:\Users\trade\Desktop\Exchange_Client\HitBtc\HitBtc\bin\Debug\HitBtc.exe
+C:\Users\trade\Desktop\Exchange_Client\HitBtc\HitBtc\bin\Debug\HitBtc.pdb
+C:\Users\trade\Desktop\Exchange_Client\HitBtc\HitBtc\bin\Debug\kafka-net.dll
+C:\Users\trade\Desktop\Exchange_Client\HitBtc\HitBtc\bin\Debug\log4net.dll
+C:\Users\trade\Desktop\Exchange_Client\HitBtc\HitBtc\bin\Debug\Newtonsoft.Json.dll
+C:\Users\trade\Desktop\Exchange_Client\HitBtc\HitBtc\bin\Debug\websocket-sharp.dll
+C:\Users\trade\Desktop\Exchange_Client\HitBtc\HitBtc\bin\Debug\WebSocket4Net.dll
+C:\Users\trade\Desktop\Exchange_Client\HitBtc\HitBtc\bin\Debug\log4net.xml
+C:\Users\trade\Desktop\Exchange_Client\HitBtc\HitBtc\bin\Debug\Newtonsoft.Json.xml
+C:\Users\trade\Desktop\Exchange_Client\HitBtc\HitBtc\bin\Debug\websocket-sharp.xml
+C:\Users\trade\Desktop\Exchange_Client\HitBtc\HitBtc\obj\Debug\HitBtc.csprojResolveAssemblyReference.cache
+E:\Exchange_Client\HitBtc\HitBtc\bin\Debug\HitBtc.exe.config
+E:\Exchange_Client\HitBtc\HitBtc\obj\Debug\HitBtc.exe
+E:\Exchange_Client\HitBtc\HitBtc\obj\Debug\HitBtc.pdb
+E:\Exchange_Client\HitBtc\HitBtc\bin\Debug\HitBtc.exe
+E:\Exchange_Client\HitBtc\HitBtc\bin\Debug\HitBtc.pdb
+E:\Exchange_Client\HitBtc\HitBtc\bin\Debug\kafka-net.dll
+E:\Exchange_Client\HitBtc\HitBtc\bin\Debug\log4net.dll
+E:\Exchange_Client\HitBtc\HitBtc\bin\Debug\Newtonsoft.Json.dll
+E:\Exchange_Client\HitBtc\HitBtc\bin\Debug\websocket-sharp.dll
+E:\Exchange_Client\HitBtc\HitBtc\bin\Debug\WebSocket4Net.dll
+E:\Exchange_Client\HitBtc\HitBtc\bin\Debug\log4net.xml
+E:\Exchange_Client\HitBtc\HitBtc\bin\Debug\Newtonsoft.Json.xml
+E:\Exchange_Client\HitBtc\HitBtc\bin\Debug\websocket-sharp.xml
+E:\Exchange_Client\HitBtc\HitBtc\bin\Debug\x86\librdkafka.dll
+E:\Exchange_Client\HitBtc\HitBtc\bin\Debug\x86\librdkafkacpp.dll
+E:\Exchange_Client\HitBtc\HitBtc\bin\Debug\x86\msvcr120.dll
+E:\Exchange_Client\HitBtc\HitBtc\bin\Debug\x86\zlib.dll
+E:\Exchange_Client\HitBtc\HitBtc\bin\Debug\x64\librdkafka.dll
+E:\Exchange_Client\HitBtc\HitBtc\bin\Debug\x64\librdkafkacpp.dll
+E:\Exchange_Client\HitBtc\HitBtc\bin\Debug\x64\msvcr120.dll
+E:\Exchange_Client\HitBtc\HitBtc\bin\Debug\x64\zlib.dll
+E:\Exchange_Client\HitBtc\HitBtc\bin\Debug\Confluent.Kafka.dll
+E:\Exchange_Client\HitBtc\HitBtc\bin\Debug\log4net.ElasticSearch.dll
+E:\Exchange_Client\HitBtc\HitBtc\bin\Debug\Confluent.Kafka.xml
+E:\Exchange_Client\HitBtc\HitBtc\bin\Debug\log4net.ElasticSearch.pdb
+F:\TradingProject\Alpha Ai App\Exchange_Client\HitBtc\HitBtc\bin\Debug\HitBtc.exe.config
+F:\TradingProject\Alpha Ai App\Exchange_Client\HitBtc\HitBtc\bin\Debug\x86\librdkafka.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client\HitBtc\HitBtc\bin\Debug\x86\librdkafkacpp.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client\HitBtc\HitBtc\bin\Debug\x86\msvcr120.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client\HitBtc\HitBtc\bin\Debug\x86\zlib.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client\HitBtc\HitBtc\bin\Debug\x64\librdkafka.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client\HitBtc\HitBtc\bin\Debug\x64\librdkafkacpp.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client\HitBtc\HitBtc\bin\Debug\x64\msvcr120.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client\HitBtc\HitBtc\bin\Debug\x64\zlib.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client\HitBtc\HitBtc\bin\Debug\HitBtc.exe
+F:\TradingProject\Alpha Ai App\Exchange_Client\HitBtc\HitBtc\bin\Debug\HitBtc.pdb
+F:\TradingProject\Alpha Ai App\Exchange_Client\HitBtc\HitBtc\bin\Debug\Confluent.Kafka.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client\HitBtc\HitBtc\bin\Debug\kafka-net.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client\HitBtc\HitBtc\bin\Debug\log4net.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client\HitBtc\HitBtc\bin\Debug\log4net.ElasticSearch.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client\HitBtc\HitBtc\bin\Debug\Newtonsoft.Json.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client\HitBtc\HitBtc\bin\Debug\websocket-sharp.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client\HitBtc\HitBtc\bin\Debug\WebSocket4Net.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client\HitBtc\HitBtc\bin\Debug\Confluent.Kafka.xml
+F:\TradingProject\Alpha Ai App\Exchange_Client\HitBtc\HitBtc\bin\Debug\log4net.xml
+F:\TradingProject\Alpha Ai App\Exchange_Client\HitBtc\HitBtc\bin\Debug\log4net.ElasticSearch.pdb
+F:\TradingProject\Alpha Ai App\Exchange_Client\HitBtc\HitBtc\bin\Debug\Newtonsoft.Json.xml
+F:\TradingProject\Alpha Ai App\Exchange_Client\HitBtc\HitBtc\bin\Debug\websocket-sharp.xml
+F:\TradingProject\Alpha Ai App\Exchange_Client\HitBtc\HitBtc\obj\Debug\HitBtc.exe
+F:\TradingProject\Alpha Ai App\Exchange_Client\HitBtc\HitBtc\obj\Debug\HitBtc.pdb
+F:\TradingProject\Alpha Ai App\Exchange_Client\HitBtc\HitBtc\obj\Debug\HitBtc.csprojResolveAssemblyReference.cache
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\HitBtc\HitBtc\bin\Debug\HitBtc.exe.config
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\HitBtc\HitBtc\obj\Debug\HitBtc.exe
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\HitBtc\HitBtc\obj\Debug\HitBtc.pdb
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\HitBtc\HitBtc\bin\Debug\x86\librdkafka.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\HitBtc\HitBtc\bin\Debug\x86\librdkafkacpp.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\HitBtc\HitBtc\bin\Debug\x86\msvcr120.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\HitBtc\HitBtc\bin\Debug\x86\zlib.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\HitBtc\HitBtc\bin\Debug\x64\librdkafka.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\HitBtc\HitBtc\bin\Debug\x64\librdkafkacpp.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\HitBtc\HitBtc\bin\Debug\x64\msvcr120.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\HitBtc\HitBtc\bin\Debug\x64\zlib.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\HitBtc\HitBtc\bin\Debug\HitBtc.exe
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\HitBtc\HitBtc\bin\Debug\HitBtc.pdb
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\HitBtc\HitBtc\bin\Debug\Confluent.Kafka.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\HitBtc\HitBtc\bin\Debug\kafka-net.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\HitBtc\HitBtc\bin\Debug\log4net.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\HitBtc\HitBtc\bin\Debug\log4net.ElasticSearch.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\HitBtc\HitBtc\bin\Debug\Newtonsoft.Json.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\HitBtc\HitBtc\bin\Debug\websocket-sharp.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\HitBtc\HitBtc\bin\Debug\WebSocket4Net.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\HitBtc\HitBtc\bin\Debug\Confluent.Kafka.xml
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\HitBtc\HitBtc\bin\Debug\log4net.xml
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\HitBtc\HitBtc\bin\Debug\log4net.ElasticSearch.pdb
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\HitBtc\HitBtc\bin\Debug\Newtonsoft.Json.xml
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\HitBtc\HitBtc\bin\Debug\websocket-sharp.xml
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\HitBtc\HitBtc\bin\Debug\RestSharp.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\HitBtc\HitBtc\bin\Debug\RestSharp.xml
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\HitBtc\HitBtc\obj\Debug\HitBtc.csprojResolveAssemblyReference.cache
+F:\Exchange_C#_code\HitBtc\HitBtc\bin\Debug\HitBtc.exe.config
+F:\Exchange_C#_code\HitBtc\HitBtc\obj\Debug\HitBtc.exe
+F:\Exchange_C#_code\HitBtc\HitBtc\obj\Debug\HitBtc.pdb
+F:\Exchange_C#_code\HitBtc\HitBtc\bin\Debug\x86\librdkafka.dll
+F:\Exchange_C#_code\HitBtc\HitBtc\bin\Debug\x86\librdkafkacpp.dll
+F:\Exchange_C#_code\HitBtc\HitBtc\bin\Debug\x86\msvcr120.dll
+F:\Exchange_C#_code\HitBtc\HitBtc\bin\Debug\x86\zlib.dll
+F:\Exchange_C#_code\HitBtc\HitBtc\bin\Debug\x64\librdkafka.dll
+F:\Exchange_C#_code\HitBtc\HitBtc\bin\Debug\x64\librdkafkacpp.dll
+F:\Exchange_C#_code\HitBtc\HitBtc\bin\Debug\x64\msvcr120.dll
+F:\Exchange_C#_code\HitBtc\HitBtc\bin\Debug\x64\zlib.dll
+F:\Exchange_C#_code\HitBtc\HitBtc\bin\Debug\HitBtc.exe
+F:\Exchange_C#_code\HitBtc\HitBtc\bin\Debug\HitBtc.pdb
+F:\Exchange_C#_code\HitBtc\HitBtc\bin\Debug\Confluent.Kafka.dll
+F:\Exchange_C#_code\HitBtc\HitBtc\bin\Debug\kafka-net.dll
+F:\Exchange_C#_code\HitBtc\HitBtc\bin\Debug\log4net.dll
+F:\Exchange_C#_code\HitBtc\HitBtc\bin\Debug\log4net.ElasticSearch.dll
+F:\Exchange_C#_code\HitBtc\HitBtc\bin\Debug\Newtonsoft.Json.dll
+F:\Exchange_C#_code\HitBtc\HitBtc\bin\Debug\RestSharp.dll
+F:\Exchange_C#_code\HitBtc\HitBtc\bin\Debug\websocket-sharp.dll
+F:\Exchange_C#_code\HitBtc\HitBtc\bin\Debug\WebSocket4Net.dll
+F:\Exchange_C#_code\HitBtc\HitBtc\bin\Debug\Confluent.Kafka.xml
+F:\Exchange_C#_code\HitBtc\HitBtc\bin\Debug\log4net.xml
+F:\Exchange_C#_code\HitBtc\HitBtc\bin\Debug\log4net.ElasticSearch.pdb
+F:\Exchange_C#_code\HitBtc\HitBtc\bin\Debug\Newtonsoft.Json.xml
+F:\Exchange_C#_code\HitBtc\HitBtc\bin\Debug\RestSharp.xml
+F:\Exchange_C#_code\HitBtc\HitBtc\bin\Debug\websocket-sharp.xml
+F:\Exchange_C#_code\HitBtc\HitBtc\obj\Debug\HitBtc.csprojResolveAssemblyReference.cache
+D:\ExchangeClient\HitBtc\HitBtc\bin\Debug\HitBtc.exe.config
+D:\ExchangeClient\HitBtc\HitBtc\obj\Debug\HitBtc.exe
+D:\ExchangeClient\HitBtc\HitBtc\obj\Debug\HitBtc.pdb
+D:\ExchangeClient\HitBtc\HitBtc\bin\Debug\x86\librdkafka.dll
+D:\ExchangeClient\HitBtc\HitBtc\bin\Debug\x86\librdkafkacpp.dll
+D:\ExchangeClient\HitBtc\HitBtc\bin\Debug\x86\msvcr120.dll
+D:\ExchangeClient\HitBtc\HitBtc\bin\Debug\x86\zlib.dll
+D:\ExchangeClient\HitBtc\HitBtc\bin\Debug\x64\librdkafka.dll
+D:\ExchangeClient\HitBtc\HitBtc\bin\Debug\x64\librdkafkacpp.dll
+D:\ExchangeClient\HitBtc\HitBtc\bin\Debug\x64\msvcr120.dll
+D:\ExchangeClient\HitBtc\HitBtc\bin\Debug\x64\zlib.dll
+D:\ExchangeClient\HitBtc\HitBtc\bin\Debug\HitBtc.exe
+D:\ExchangeClient\HitBtc\HitBtc\bin\Debug\HitBtc.pdb
+D:\ExchangeClient\HitBtc\HitBtc\bin\Debug\Confluent.Kafka.dll
+D:\ExchangeClient\HitBtc\HitBtc\bin\Debug\kafka-net.dll
+D:\ExchangeClient\HitBtc\HitBtc\bin\Debug\log4net.dll
+D:\ExchangeClient\HitBtc\HitBtc\bin\Debug\log4net.ElasticSearch.dll
+D:\ExchangeClient\HitBtc\HitBtc\bin\Debug\Newtonsoft.Json.dll
+D:\ExchangeClient\HitBtc\HitBtc\bin\Debug\RestSharp.dll
+D:\ExchangeClient\HitBtc\HitBtc\bin\Debug\websocket-sharp.dll
+D:\ExchangeClient\HitBtc\HitBtc\bin\Debug\WebSocket4Net.dll
+D:\ExchangeClient\HitBtc\HitBtc\bin\Debug\Confluent.Kafka.xml
+D:\ExchangeClient\HitBtc\HitBtc\bin\Debug\log4net.xml
+D:\ExchangeClient\HitBtc\HitBtc\bin\Debug\log4net.ElasticSearch.pdb
+D:\ExchangeClient\HitBtc\HitBtc\bin\Debug\Newtonsoft.Json.xml
+D:\ExchangeClient\HitBtc\HitBtc\bin\Debug\RestSharp.xml
+D:\ExchangeClient\HitBtc\HitBtc\bin\Debug\websocket-sharp.xml
+C:\Users\Administrator\Desktop\ExchangeClient\HitBtc\HitBtc\bin\Debug\HitBtc.exe.config
+C:\Users\Administrator\Desktop\ExchangeClient\HitBtc\HitBtc\obj\Debug\HitBtc.exe
+C:\Users\Administrator\Desktop\ExchangeClient\HitBtc\HitBtc\obj\Debug\HitBtc.pdb
+C:\Users\Administrator\Desktop\ExchangeClient\HitBtc\HitBtc\bin\Debug\x86\librdkafka.dll
+C:\Users\Administrator\Desktop\ExchangeClient\HitBtc\HitBtc\bin\Debug\x86\librdkafkacpp.dll
+C:\Users\Administrator\Desktop\ExchangeClient\HitBtc\HitBtc\bin\Debug\x86\msvcr120.dll
+C:\Users\Administrator\Desktop\ExchangeClient\HitBtc\HitBtc\bin\Debug\x86\zlib.dll
+C:\Users\Administrator\Desktop\ExchangeClient\HitBtc\HitBtc\bin\Debug\x64\librdkafka.dll
+C:\Users\Administrator\Desktop\ExchangeClient\HitBtc\HitBtc\bin\Debug\x64\librdkafkacpp.dll
+C:\Users\Administrator\Desktop\ExchangeClient\HitBtc\HitBtc\bin\Debug\x64\msvcr120.dll
+C:\Users\Administrator\Desktop\ExchangeClient\HitBtc\HitBtc\bin\Debug\x64\zlib.dll
+C:\Users\Administrator\Desktop\ExchangeClient\HitBtc\HitBtc\bin\Debug\HitBtc.exe
+C:\Users\Administrator\Desktop\ExchangeClient\HitBtc\HitBtc\bin\Debug\HitBtc.pdb
+C:\Users\Administrator\Desktop\ExchangeClient\HitBtc\HitBtc\bin\Debug\Confluent.Kafka.dll
+C:\Users\Administrator\Desktop\ExchangeClient\HitBtc\HitBtc\bin\Debug\kafka-net.dll
+C:\Users\Administrator\Desktop\ExchangeClient\HitBtc\HitBtc\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\ExchangeClient\HitBtc\HitBtc\bin\Debug\log4net.ElasticSearch.dll
+C:\Users\Administrator\Desktop\ExchangeClient\HitBtc\HitBtc\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\ExchangeClient\HitBtc\HitBtc\bin\Debug\RestSharp.dll
+C:\Users\Administrator\Desktop\ExchangeClient\HitBtc\HitBtc\bin\Debug\websocket-sharp.dll
+C:\Users\Administrator\Desktop\ExchangeClient\HitBtc\HitBtc\bin\Debug\WebSocket4Net.dll
+C:\Users\Administrator\Desktop\ExchangeClient\HitBtc\HitBtc\bin\Debug\Confluent.Kafka.xml
+C:\Users\Administrator\Desktop\ExchangeClient\HitBtc\HitBtc\bin\Debug\log4net.xml
+C:\Users\Administrator\Desktop\ExchangeClient\HitBtc\HitBtc\bin\Debug\log4net.ElasticSearch.pdb
+C:\Users\Administrator\Desktop\ExchangeClient\HitBtc\HitBtc\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\ExchangeClient\HitBtc\HitBtc\bin\Debug\RestSharp.xml
+C:\Users\Administrator\Desktop\ExchangeClient\HitBtc\HitBtc\bin\Debug\websocket-sharp.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\HitBtc\HitBtc\bin\Debug\HitBtc.exe.config
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\HitBtc\HitBtc\obj\Debug\HitBtc.exe
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\HitBtc\HitBtc\obj\Debug\HitBtc.pdb
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\HitBtc\HitBtc\bin\Debug\x86\librdkafka.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\HitBtc\HitBtc\bin\Debug\x86\librdkafkacpp.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\HitBtc\HitBtc\bin\Debug\x86\msvcr120.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\HitBtc\HitBtc\bin\Debug\x86\zlib.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\HitBtc\HitBtc\bin\Debug\x64\librdkafka.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\HitBtc\HitBtc\bin\Debug\x64\librdkafkacpp.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\HitBtc\HitBtc\bin\Debug\x64\msvcr120.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\HitBtc\HitBtc\bin\Debug\x64\zlib.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\HitBtc\HitBtc\bin\Debug\HitBtc.exe
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\HitBtc\HitBtc\bin\Debug\HitBtc.pdb
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\HitBtc\HitBtc\bin\Debug\Confluent.Kafka.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\HitBtc\HitBtc\bin\Debug\kafka-net.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\HitBtc\HitBtc\bin\Debug\log4net.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\HitBtc\HitBtc\bin\Debug\log4net.ElasticSearch.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\HitBtc\HitBtc\bin\Debug\Newtonsoft.Json.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\HitBtc\HitBtc\bin\Debug\RestSharp.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\HitBtc\HitBtc\bin\Debug\websocket-sharp.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\HitBtc\HitBtc\bin\Debug\WebSocket4Net.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\HitBtc\HitBtc\bin\Debug\Confluent.Kafka.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\HitBtc\HitBtc\bin\Debug\log4net.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\HitBtc\HitBtc\bin\Debug\log4net.ElasticSearch.pdb
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\HitBtc\HitBtc\bin\Debug\Newtonsoft.Json.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\HitBtc\HitBtc\bin\Debug\RestSharp.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\HitBtc\HitBtc\bin\Debug\websocket-sharp.xml
+D:\ExchangeClient\HitBtc\HitBtc\obj\Debug\HitBtc.csprojResolveAssemblyReference.cache

@@ -1,0 +1,172 @@
+=================================================
+Depositaddress:
+=================================================
+Return your deposit address to make a new deposit.
+Mastercoin currency deposit works only for verified accounts
+
+https://api.bitfinex.com/v1/deposit/new
+
+Parameters: 	
+request="/v1/deposit/new"
+
+nonce=Date.now().ToString()
+
+method=Method of deposit (methods accepted: “bitcoin”, “litecoin”, “ethereum”, “mastercoin” (tethers), "ethereumc", "zcash", "monero", "iota").
+
+wallet_name=Wallet to deposit in (accepted: “trading”, “exchange”, “deposit”). Your wallet needs to already exist
+
+renew=int32 Default is 0. If set to 1, will return a new unused deposit address
+
+
+
+//response
+{
+  "result":"success",
+  "method":"bitcoin",
+  "currency":"BTC",
+  "address":"1A2wyHKJ4KWEoahDHVxwQy3kdd6g1qiSYV"
+}
+
+*********************************************************************************************************************************************
+=================================================
+Wallet Balances:
+=================================================
+See your balances
+
+https://api.bitfinex.com/v1/balances
+
+Response Details:
+
+
+type	    [string]	“trading”, “deposit” or “exchange”
+currency	[string]	Currency
+amount	    [decimal]	How much balance of this currency in this wallet
+available	[decimal]	How much X there is in this wallet that is available to trade
+
+
+
+Response:
+[{
+  "type":"deposit",
+  "currency":"btc",
+  "amount":"0.0",
+  "available":"0.0"
+},{
+  "type":"deposit",
+  "currency":"usd",
+  "amount":"1.0",
+  "available":"1.0"
+},{
+  "type":"exchange",
+  "currency":"btc",
+  "amount":"1",
+  "available":"1"
+},{
+  "type":"exchange",
+  "currency":"usd",
+  "amount":"1",
+  "available":"1"
+},{
+  "type":"trading",
+  "currency":"btc",
+  "amount":"1",
+  "available":"1"
+},{
+  "type":"trading",
+  "currency":"usd",
+  "amount":"1",
+  "available":"1"
+},
+...]
+*********************************************************************************************************************************************
+=================================================
+Transfer Between Wallets:
+=================================================
+
+Allow you to move available balances between your wallets.
+
+https://api.bitfinex.com/v1/transfer
+
+QUERY PARAMS:
+	
+amount 		  int32     REQUIRED   Amount to transfer.
+
+
+currency  	  string    REQUIRED   Currency of funds to transfer.
+
+
+walletfrom    string    REQUIRED   Wallet to transfer from.
+
+
+walletto      string    REQUIRED   Wallet to transfer to.
+
+
+Response Details:
+
+status	[string]	“success” or “error”
+message	[string]	Success or error message
+
+Response:
+[{
+  "status":"success",
+  "message":"1.0 USD transfered from Exchange to Deposit"
+}]
+*********************************************************************************************************************************************
+=================================================
+Withdrawal:
+=================================================
+Allow you to request a withdrawal from one of your wallet.
+https://api.bitfinex.com/v1/withdraw
+
+QUERY PARAMS:
+	
+withdraw_type     string    REQUIRED     can be one of the following ['bitcoin', 'litecoin', 'ethereum', 'ethereumc', 'mastercoin', 'zcash', 'monero', 'wire', 'dash', 'ripple', 'eos']
+
+
+walletselected    string    REQUIRED     The wallet to withdraw from, can be “trading”, “exchange”, or “deposit”.
+
+
+amount            string    REQUIRED     Amount to withdraw.
+
+
+address           string    REQUIRED     (1) Destination address for withdrawal.
+
+
+For CRYPTOCURRENCY withdrawals, you will also supply the Address where the funds should be sent. If it is a monero transaction, you can also include a Payment ID.
+
+Response:
+
+status	        [string]	“success” or “error”.
+message	        [string]	Success or error message
+withdrawal_id	[int]	    ID of the withdrawal (0 if unsuccessful)
+
+[{
+  "status":"success",
+  "message":"Your withdrawal request has been successfully submitted.",
+  "withdrawal_id":586829
+}]
+*********************************************************************************************************************************************
+=================================================
+Account Fees:
+=================================================
+See the fees applied to your withdrawals
+
+https://api.bitfinex.com/v1/account_fees
+
+
+response:
+{
+  "withdraw":{
+    "BTC": "0.0005",
+    "LTC": 0,
+    "ETH": 0,
+    ...
+  }
+}
+*********************************************************************************************************************************************
+
+
+
+
+
+

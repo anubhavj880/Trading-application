@@ -1,0 +1,124 @@
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\Gemini_ExchangeClient.exe.config
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\x86\librdkafka.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\x86\librdkafkacpp.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\x86\msvcr120.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\x86\zlib.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\x64\librdkafka.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\x64\librdkafkacpp.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\x64\msvcr120.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\x64\zlib.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\Gemini_ExchangeClient.exe
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\Gemini_ExchangeClient.pdb
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\Confluent.Kafka.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\log4net.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\Newtonsoft.Json.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\websocket-sharp.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\Confluent.Kafka.xml
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\log4net.xml
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\Newtonsoft.Json.xml
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\websocket-sharp.xml
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Gemini_ExchangeClient\Gemini_ExchangeClient\obj\Debug\Gemini_ExchangeClient.csprojResolveAssemblyReference.cache
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Gemini_ExchangeClient\Gemini_ExchangeClient\obj\Debug\Gemini_ExchangeClient.exe
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Gemini_ExchangeClient\Gemini_ExchangeClient\obj\Debug\Gemini_ExchangeClient.pdb
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\WebSocket4Net.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\RestSharp.dll
+F:\TradingProject\Alpha Ai App\Exchange_Client_V1\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\RestSharp.xml
+F:\Exchange_C#_code\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\Gemini_ExchangeClient.exe.config
+F:\Exchange_C#_code\Gemini_ExchangeClient\Gemini_ExchangeClient\obj\Debug\Gemini_ExchangeClient.exe
+F:\Exchange_C#_code\Gemini_ExchangeClient\Gemini_ExchangeClient\obj\Debug\Gemini_ExchangeClient.pdb
+F:\Exchange_C#_code\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\x86\librdkafka.dll
+F:\Exchange_C#_code\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\x86\librdkafkacpp.dll
+F:\Exchange_C#_code\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\x86\msvcr120.dll
+F:\Exchange_C#_code\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\x86\zlib.dll
+F:\Exchange_C#_code\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\x64\librdkafka.dll
+F:\Exchange_C#_code\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\x64\librdkafkacpp.dll
+F:\Exchange_C#_code\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\x64\msvcr120.dll
+F:\Exchange_C#_code\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\x64\zlib.dll
+F:\Exchange_C#_code\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\Gemini_ExchangeClient.exe
+F:\Exchange_C#_code\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\Gemini_ExchangeClient.pdb
+F:\Exchange_C#_code\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\Confluent.Kafka.dll
+F:\Exchange_C#_code\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\log4net.dll
+F:\Exchange_C#_code\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\Newtonsoft.Json.dll
+F:\Exchange_C#_code\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\RestSharp.dll
+F:\Exchange_C#_code\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\websocket-sharp.dll
+F:\Exchange_C#_code\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\WebSocket4Net.dll
+F:\Exchange_C#_code\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\Confluent.Kafka.xml
+F:\Exchange_C#_code\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\log4net.xml
+F:\Exchange_C#_code\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\Newtonsoft.Json.xml
+F:\Exchange_C#_code\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\RestSharp.xml
+F:\Exchange_C#_code\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\websocket-sharp.xml
+F:\Exchange_C#_code\Gemini_ExchangeClient\Gemini_ExchangeClient\obj\Debug\Gemini_ExchangeClient.csprojResolveAssemblyReference.cache
+D:\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\Gemini_ExchangeClient.exe.config
+D:\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\obj\Debug\Gemini_ExchangeClient.exe
+D:\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\obj\Debug\Gemini_ExchangeClient.pdb
+D:\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\x86\librdkafka.dll
+D:\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\x86\librdkafkacpp.dll
+D:\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\x86\msvcr120.dll
+D:\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\x86\zlib.dll
+D:\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\x64\librdkafka.dll
+D:\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\x64\librdkafkacpp.dll
+D:\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\x64\msvcr120.dll
+D:\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\x64\zlib.dll
+D:\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\Gemini_ExchangeClient.exe
+D:\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\Gemini_ExchangeClient.pdb
+D:\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\Confluent.Kafka.dll
+D:\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\log4net.dll
+D:\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\Newtonsoft.Json.dll
+D:\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\RestSharp.dll
+D:\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\websocket-sharp.dll
+D:\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\WebSocket4Net.dll
+D:\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\Confluent.Kafka.xml
+D:\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\log4net.xml
+D:\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\Newtonsoft.Json.xml
+D:\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\RestSharp.xml
+D:\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\websocket-sharp.xml
+C:\Users\Administrator\Desktop\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\Gemini_ExchangeClient.exe.config
+C:\Users\Administrator\Desktop\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\obj\Debug\Gemini_ExchangeClient.exe
+C:\Users\Administrator\Desktop\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\obj\Debug\Gemini_ExchangeClient.pdb
+C:\Users\Administrator\Desktop\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\x86\librdkafka.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\x86\librdkafkacpp.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\x86\msvcr120.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\x86\zlib.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\x64\librdkafka.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\x64\librdkafkacpp.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\x64\msvcr120.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\x64\zlib.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\Gemini_ExchangeClient.exe
+C:\Users\Administrator\Desktop\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\Gemini_ExchangeClient.pdb
+C:\Users\Administrator\Desktop\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\Confluent.Kafka.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\RestSharp.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\websocket-sharp.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\WebSocket4Net.dll
+C:\Users\Administrator\Desktop\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\Confluent.Kafka.xml
+C:\Users\Administrator\Desktop\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\log4net.xml
+C:\Users\Administrator\Desktop\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\RestSharp.xml
+C:\Users\Administrator\Desktop\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\websocket-sharp.xml
+C:\Users\Administrator\Desktop\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\obj\Debug\Gemini_ExchangeClient.csprojResolveAssemblyReference.cache
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\Gemini_ExchangeClient.exe.config
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Gemini_ExchangeClient\Gemini_ExchangeClient\obj\Debug\Gemini_ExchangeClient.exe
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Gemini_ExchangeClient\Gemini_ExchangeClient\obj\Debug\Gemini_ExchangeClient.pdb
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\x86\librdkafka.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\x86\librdkafkacpp.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\x86\msvcr120.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\x86\zlib.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\x64\librdkafka.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\x64\librdkafkacpp.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\x64\msvcr120.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\x64\zlib.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\Gemini_ExchangeClient.exe
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\Gemini_ExchangeClient.pdb
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\Confluent.Kafka.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\log4net.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\Newtonsoft.Json.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\RestSharp.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\websocket-sharp.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\WebSocket4Net.dll
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\Confluent.Kafka.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\log4net.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\Newtonsoft.Json.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\RestSharp.xml
+F:\TradingProject\Alpha_Ai_App\ExchangeClientApplication\Gemini_ExchangeClient\Gemini_ExchangeClient\bin\Debug\websocket-sharp.xml
+D:\ExchangeClient\Gemini_ExchangeClient\Gemini_ExchangeClient\obj\Debug\Gemini_ExchangeClient.csprojResolveAssemblyReference.cache

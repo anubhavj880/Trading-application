@@ -1,0 +1,199 @@
+*********************************************************************************************************************************************
+=================================================
+Get account balance:
+=================================================
+Result: array of asset names and balance amount
+
+https://api.kraken.com/0/private/Balance
+
+*********************************************************************************************************************************************
+=================================================
+Get trade balance:
+=================================================
+https://api.kraken.com/0/private/TradeBalance
+
+Input:
+
+aclass = asset class (optional):
+    currency (default)
+asset = base asset used to determine balance (default = ZUSD)
+
+
+Result: array of trade balance info
+
+eb = equivalent balance (combined balance of all currencies)
+tb = trade balance (combined balance of all equity currencies)
+m = margin amount of open positions
+n = unrealized net profit/loss of open positions
+c = cost basis of open positions
+v = current floating valuation of open positions
+e = equity = trade balance + unrealized net profit/loss
+mf = free margin = equity - initial margin (maximum margin available to open new positions)
+ml = margin level = (equity / initial margin) * 100
+Note: Rates used for the floating valuation is the midpoint of the best bid and ask prices
+
+*********************************************************************************************************************************************
+=================================================
+Get deposit methods:
+=================================================
+https://api.kraken.com/0/private/DepositMethods
+
+Input:
+
+aclass = asset class (optional):
+    currency (default)
+asset = asset being deposited
+
+
+
+Result: associative array of deposit methods:
+
+method = name of deposit method
+limit = maximum net amount that can be deposited right now, or false if no limit
+fee = amount of fees that will be paid
+address-setup-fee = whether or not method has an address setup fee (optional)
+
+*********************************************************************************************************************************************
+=================================================
+Get deposit addresses:
+=================================================
+
+ https://api.kraken.com/0/private/DepositAddresses
+
+Input:
+
+aclass = asset class (optional):
+    currency (default)
+asset = asset being deposited
+method = name of the deposit method
+new = whether or not to generate a new address (optional.  default = false)
+
+Result: associative array of deposit addresses:
+
+address = deposit address
+expiretm = expiration time in unix timestamp, or 0 if not expiring
+new = whether or not address has ever been used
+
+*********************************************************************************************************************************************
+=================================================
+Get status of recent deposits:
+=================================================
+https://api.kraken.com/0/private/DepositStatus
+
+
+Input:
+
+aclass = asset class (optional):
+    currency (default)
+asset = asset being deposited
+method = name of the deposit method
+
+
+Result: array of array deposit status information:
+
+method = name of the deposit method used
+aclass = asset class
+asset = asset X-ISO4217-A3 code
+refid = reference id
+txid = method transaction id
+info = method transaction information
+amount = amount deposited
+fee = fees paid
+time = unix timestamp when request was made
+status = status of deposit
+status-prop = additional status properties (if available)
+    return = a return transaction initiated by Kraken
+    onhold = deposit is on hold pending review
+
+*********************************************************************************************************************************************
+=================================================
+Get withdrawal information:
+=================================================
+
+https://api.kraken.com/0/private/WithdrawInfo
+
+Input:
+
+aclass = asset class (optional):
+    currency (default)
+asset = asset being withdrawn
+key = withdrawal key name, as set up on your account
+amount = amount to withdraw
+
+
+Result: associative array of withdrawal info:
+
+method = name of the withdrawal method that will be used
+limit = maximum net amount that can be withdrawn right now
+fee = amount of fees that will be paid
+
+*********************************************************************************************************************************************
+=================================================
+Withdraw funds:
+=================================================
+
+https://api.kraken.com/0/private/Withdraw
+
+
+Input:
+
+aclass = asset class (optional):
+    currency (default)
+asset = asset being withdrawn
+key = withdrawal key name, as set up on your account
+amount = amount to withdraw, including fees
+
+Result: associative array of withdrawal transaction:
+
+refid = reference id
+
+*********************************************************************************************************************************************
+=================================================
+Get status of recent withdrawals:
+=================================================
+
+https://api.kraken.com/0/private/WithdrawStatus
+
+Input:
+
+aclass = asset class (optional):
+    currency (default)
+asset = asset being withdrawn
+method = withdrawal method name (optional)
+
+Result: array of array withdrawal status information:
+
+method = name of the withdrawal method used
+aclass = asset class
+asset = asset X-ISO4217-A3 code
+refid = reference id
+txid = method transaction id
+info = method transaction information
+amount = amount withdrawn
+fee = fees paid
+time = unix timestamp when request was made
+status = status of withdrawal
+status-prop = additional status properties (if available)
+    cancel-pending = cancelation requested
+    canceled = canceled
+    cancel-denied = cancelation requested but was denied
+    return = a return transaction initiated by Kraken; it cannot be canceled
+    onhold = withdrawal is on hold pending review
+	
+*********************************************************************************************************************************************
+=================================================
+Request withdrawal cancelation:
+=================================================
+
+https://api.kraken.com/0/private/WithdrawCancel
+
+Input:
+
+aclass = asset class (optional):
+    currency (default)
+asset = asset being withdrawn
+refid = withdrawal reference id
+
+Result: true on success
+
+*********************************************************************************************************************************************

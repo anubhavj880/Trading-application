@@ -1,0 +1,12 @@
+F:\TradingProject\Alpha_Ai_App\CoinMovement\KrakenCinMovement\KrakenCinMovement\bin\Debug\KrakenCinMovement.exe.config
+F:\TradingProject\Alpha_Ai_App\CoinMovement\KrakenCinMovement\KrakenCinMovement\bin\Debug\KrakenCinMovement.exe
+F:\TradingProject\Alpha_Ai_App\CoinMovement\KrakenCinMovement\KrakenCinMovement\bin\Debug\KrakenCinMovement.pdb
+F:\TradingProject\Alpha_Ai_App\CoinMovement\KrakenCinMovement\KrakenCinMovement\obj\Debug\KrakenCinMovement.exe
+F:\TradingProject\Alpha_Ai_App\CoinMovement\KrakenCinMovement\KrakenCinMovement\obj\Debug\KrakenCinMovement.pdb
+F:\TradingProject\Alpha_Ai_App\CoinMovement\KrakenCinMovement\KrakenCinMovement\bin\Debug\log4net.dll
+F:\TradingProject\Alpha_Ai_App\CoinMovement\KrakenCinMovement\KrakenCinMovement\bin\Debug\Newtonsoft.Json.dll
+F:\TradingProject\Alpha_Ai_App\CoinMovement\KrakenCinMovement\KrakenCinMovement\bin\Debug\RestSharp.dll
+F:\TradingProject\Alpha_Ai_App\CoinMovement\KrakenCinMovement\KrakenCinMovement\bin\Debug\log4net.xml
+F:\TradingProject\Alpha_Ai_App\CoinMovement\KrakenCinMovement\KrakenCinMovement\bin\Debug\Newtonsoft.Json.xml
+F:\TradingProject\Alpha_Ai_App\CoinMovement\KrakenCinMovement\KrakenCinMovement\bin\Debug\RestSharp.xml
+F:\TradingProject\Alpha_Ai_App\CoinMovement\KrakenCinMovement\KrakenCinMovement\obj\Debug\KrakenCoinMovement.csprojResolveAssemblyReference.cache
